@@ -1,0 +1,318 @@
+{
+  "_comment": "Canonical skill name map. Keys are lowercased/stripped variants; values are display names.",
+
+  "python": "Python",
+  "python3": "Python",
+  "python 3": "Python",
+
+  "javascript": "JavaScript",
+  "js": "JavaScript",
+  "es6": "JavaScript",
+  "es2015": "JavaScript",
+  "vanilla js": "JavaScript",
+
+  "typescript": "TypeScript",
+  "ts": "TypeScript",
+
+  "java": "Java",
+  "java 8": "Java",
+  "java 11": "Java",
+
+  "sql": "SQL",
+  "structured query language": "SQL",
+
+  "c#": "C#",
+  "csharp": "C#",
+  "c sharp": "C#",
+
+  "c++": "C++",
+  "cpp": "C++",
+
+  "go": "Go",
+  "golang": "Go",
+
+  "rust": "Rust",
+
+  "php": "PHP",
+
+  "ruby": "Ruby",
+
+  "react": "React.js",
+  "reactjs": "React.js",
+  "react.js": "React.js",
+  "react js": "React.js",
+
+  "next.js": "Next.js",
+  "nextjs": "Next.js",
+  "next js": "Next.js",
+
+  "vue": "Vue.js",
+  "vuejs": "Vue.js",
+  "vue.js": "Vue.js",
+
+  "angular": "Angular",
+  "angularjs": "Angular",
+
+  "node": "Node.js",
+  "node.js": "Node.js",
+  "nodejs": "Node.js",
+
+  "express": "Express.js",
+  "expressjs": "Express.js",
+  "express.js": "Express.js",
+
+  "django": "Django",
+
+  "fastapi": "FastAPI",
+  "fast api": "FastAPI",
+
+  "flask": "Flask",
+
+  "spring": "Spring Boot",
+  "spring boot": "Spring Boot",
+  "springboot": "Spring Boot",
+
+  "tensorflow": "TensorFlow",
+  "tensor flow": "TensorFlow",
+  "tf": "TensorFlow",
+
+  "pytorch": "PyTorch",
+  "torch": "PyTorch",
+
+  "scikit-learn": "Scikit-learn",
+  "sklearn": "Scikit-learn",
+  "scikit learn": "Scikit-learn",
+
+  "pandas": "Pandas",
+
+  "numpy": "NumPy",
+  "np": "NumPy",
+
+  "tailwind": "Tailwind CSS",
+  "tailwindcss": "Tailwind CSS",
+  "tailwind css": "Tailwind CSS",
+
+  "graphql": "GraphQL",
+
+  "aws": "AWS",
+  "amazon web services": "AWS",
+
+  "azure": "Azure",
+  "microsoft azure": "Azure",
+
+  "gcp": "Google Cloud",
+  "google cloud platform": "Google Cloud",
+  "google cloud": "Google Cloud",
+
+  "docker": "Docker",
+
+  "kubernetes": "Kubernetes",
+  "k8s": "Kubernetes",
+
+  "terraform": "Terraform",
+
+  "ci/cd": "CI/CD",
+  "cicd": "CI/CD",
+  "continuous integration": "CI/CD",
+  "continuous deployment": "CI/CD",
+  "github actions": "CI/CD",
+  "jenkins": "Jenkins",
+
+  "linux": "Linux",
+  "unix": "Linux",
+
+  "machine learning": "Machine Learning",
+  "ml": "Machine Learning",
+
+  "deep learning": "Deep Learning",
+  "dl": "Deep Learning",
+
+  "data analysis": "Data Analysis",
+  "data analytics": "Data Analysis",
+  "data analyst": "Data Analysis",
+
+  "power bi": "Power BI",
+  "powerbi": "Power BI",
+
+  "tableau": "Tableau",
+
+  "excel": "Excel",
+  "microsoft excel": "Excel",
+  "ms excel": "Excel",
+  "advanced excel": "Excel",
+
+  "microsoft office": "Microsoft Office",
+  "ms office": "Microsoft Office",
+  "office 365": "Microsoft Office",
+  "microsoft 365": "Microsoft Office",
+
+  "powerpoint": "PowerPoint",
+  "microsoft powerpoint": "PowerPoint",
+  "ms powerpoint": "PowerPoint",
+
+  "word": "Microsoft Word",
+  "microsoft word": "Microsoft Word",
+
+  "postgresql": "PostgreSQL",
+  "postgres": "PostgreSQL",
+
+  "mongodb": "MongoDB",
+  "mongo": "MongoDB",
+
+  "mysql": "MySQL",
+
+  "redis": "Redis",
+
+  "spark": "Apache Spark",
+  "apache spark": "Apache Spark",
+  "pyspark": "Apache Spark",
+
+  "kafka": "Apache Kafka",
+  "apache kafka": "Apache Kafka",
+
+  "mlflow": "MLflow",
+
+  "git": "Git",
+  "github": "Git",
+  "version control": "Git",
+
+  "jira": "JIRA",
+
+  "sap": "SAP",
+  "sap erp": "SAP",
+  "sap hcm": "SAP",
+  "sap pm": "SAP",
+
+  "autocad": "AutoCAD",
+  "auto cad": "AutoCAD",
+
+  "solidworks": "SolidWorks",
+  "solid works": "SolidWorks",
+
+  "matlab": "MATLAB",
+
+  "figma": "Figma",
+
+  "bloomberg": "Bloomberg",
+  "bloomberg terminal": "Bloomberg",
+
+  "communication": "Communication",
+  "communication skills": "Communication",
+  "verbal communication": "Communication",
+  "written communication": "Communication",
+
+  "problem-solving": "Problem-solving",
+  "problem solving": "Problem-solving",
+  "analytical thinking": "Problem-solving",
+  "analytical skills": "Problem-solving",
+
+  "teamwork": "Teamwork",
+  "team player": "Teamwork",
+  "collaboration": "Teamwork",
+
+  "leadership": "Leadership",
+  "team leadership": "Leadership",
+  "people management": "Leadership",
+
+  "presentation": "Presentation",
+  "presentation skills": "Presentation",
+
+  "negotiation": "Negotiation",
+  "negotiation skills": "Negotiation",
+
+  "project management": "Project Management",
+
+  "agile": "Agile",
+  "agile methodology": "Agile",
+
+  "scrum": "Scrum",
+
+  "stakeholder management": "Stakeholder Management",
+
+  "product management": "Product Management",
+  "product roadmap": "Product Management",
+
+  "strategic planning": "Strategic Planning",
+
+  "risk management": "Risk Management",
+
+  "compliance": "Compliance",
+  "regulatory compliance": "Compliance",
+
+  "financial modeling": "Financial Modeling",
+  "financial modelling": "Financial Modeling",
+  "financial model": "Financial Modeling",
+
+  "financial reporting": "Financial Reporting",
+  "financial statements": "Financial Reporting",
+
+  "acca": "ACCA",
+  "cpa": "CPA",
+  "cfa": "CFA",
+  "cfa level 1": "CFA",
+
+  "six sigma": "Six Sigma",
+  "lean": "Lean Manufacturing",
+  "lean manufacturing": "Lean Manufacturing",
+
+  "iso 9001": "ISO 9001",
+  "iatf 16949": "IATF 16949",
+
+  "patient care": "Patient Care",
+  "clinical assessment": "Clinical Assessment",
+  "electronic medical records": "Electronic Medical Records",
+  "emr": "Electronic Medical Records",
+
+  "bls": "BLS",
+  "acls": "ACLS",
+
+  "rest api": "REST APIs",
+  "rest apis": "REST APIs",
+  "restful api": "REST APIs",
+
+  "microservices": "Microservices",
+  "microservice architecture": "Microservices",
+
+  "cybersecurity": "Cybersecurity",
+  "information security": "Cybersecurity",
+
+  "penetration testing": "Penetration Testing",
+  "pentest": "Penetration Testing",
+
+  "network security": "Network Security",
+
+  "cissp": "CISSP",
+  "ceh": "CEH",
+
+  "digital marketing": "Digital Marketing",
+  "seo": "SEO",
+  "search engine optimisation": "SEO",
+
+  "google analytics": "Google Analytics",
+
+  "customer relationship management": "Customer Relationship Management",
+  "crm": "Customer Relationship Management",
+
+  "sales": "Sales",
+  "b2b sales": "Sales",
+
+  "hr management": "HR Management",
+  "human resources": "HR Management",
+
+  "supply chain": "Supply Chain",
+  "logistics": "Logistics",
+
+  "teaching": "Teaching",
+  "curriculum planning": "Curriculum Planning",
+
+  "automl": "Machine Learning",
+  "natural language processing": "NLP",
+  "nlp": "NLP",
+
+  "selenium": "Selenium",
+  "cypress": "Cypress",
+  "jest": "Jest",
+
+  "statistical analysis": "Statistical Analysis",
+  "statistics": "Statistical Analysis"
+}

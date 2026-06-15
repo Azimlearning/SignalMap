@@ -1,0 +1,58 @@
+{
+  "technology": {
+    "displayName": "Technology",
+    "shortName": "Tech",
+    "color": "#3730A3",
+    "description": "Software, IT, cloud, data, and digital product companies",
+    "keywords": ["software", "developer", "engineer", "data", "cloud", "IT", "tech", "saas", "devops", "machine learning", "ai", "cybersecurity"]
+  },
+  "finance": {
+    "displayName": "Finance",
+    "shortName": "Finance",
+    "color": "#0D9488",
+    "description": "Banking, insurance, investment, accounting, and fintech",
+    "keywords": ["bank", "banking", "finance", "financial", "investment", "insurance", "accounting", "audit", "fintech", "compliance", "risk"]
+  },
+  "healthcare": {
+    "displayName": "Healthcare",
+    "shortName": "Health",
+    "color": "#DC2626",
+    "description": "Hospitals, clinics, pharmaceuticals, medical devices, and health IT",
+    "keywords": ["hospital", "clinic", "medical", "health", "nurse", "doctor", "pharmacy", "pharmaceutical", "healthcare", "clinical", "patient"]
+  },
+  "engineering": {
+    "displayName": "Engineering",
+    "shortName": "Engineering",
+    "color": "#D97706",
+    "description": "Civil, mechanical, electrical, chemical, oil & gas, and manufacturing engineering",
+    "keywords": ["civil", "mechanical", "electrical", "chemical", "engineer", "engineering", "construction", "manufacturing", "oil", "gas", "process", "structural"]
+  },
+  "education": {
+    "displayName": "Education",
+    "shortName": "Education",
+    "color": "#7C3AED",
+    "description": "Schools, universities, online learning, and training providers",
+    "keywords": ["school", "university", "college", "teacher", "education", "training", "learning", "curriculum", "academic", "tutor"]
+  },
+  "retail": {
+    "displayName": "Retail",
+    "shortName": "Retail",
+    "color": "#DB2777",
+    "description": "Consumer retail, e-commerce, and FMCG",
+    "keywords": ["retail", "store", "shop", "consumer", "merchandise", "ecommerce", "e-commerce", "fmcg", "supermarket", "fashion"]
+  },
+  "manufacturing": {
+    "displayName": "Manufacturing",
+    "shortName": "Manufacturing",
+    "color": "#059669",
+    "description": "Industrial manufacturing, production, and supply chain",
+    "keywords": ["manufacturing", "production", "factory", "industrial", "plant", "assembly", "supply chain", "quality", "operations"]
+  },
+  "other": {
+    "displayName": "Other",
+    "shortName": "Other",
+    "color": "#64748B",
+    "description": "Marketing, HR, legal, sales, operations, logistics, and other professional services",
+    "keywords": ["marketing", "hr", "human resources", "legal", "sales", "operations", "logistics", "admin", "consulting", "professional services"]
+  }
+}
