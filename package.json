@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "scrape": "npx tsx scripts/scrape-jobstreet.ts && npx tsx scripts/scrape-myfuturejobs.ts",
+    "extract": "npx tsx scripts/extract-skills.ts",
+    "snapshot": "npx tsx scripts/save-snapshot.ts",
+    "pipeline": "npm run scrape && npm run extract && npm run snapshot"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.104.1",
@@ -15,6 +19,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^1.18.0",
     "next": "16.2.9",
+    "openai": "^6.42.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "recharts": "^3.8.1",

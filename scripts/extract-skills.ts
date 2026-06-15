@@ -34,23 +34,28 @@ Job Description:
 {JD_TEXT}`
 
 async function extractSkills(description: string): Promise<ExtractedSkill[]> {
-  const { default: Anthropic } = await import('@anthropic-ai/sdk')
-  const apiKey = process.env.ANTHROPIC_API_KEY
-  if (!apiKey) throw new Error('ANTHROPIC_API_KEY not set in environment')
+  const { default: OpenAI } = await import('openai')
+  const apiKey = process.env.OPENROUTER_API_KEY
+  if (!apiKey) throw new Error('OPENROUTER_API_KEY not set in environment')
 
-  const client = new Anthropic({ apiKey })
-  const prompt = EXTRACTION_PROMPT.replace('{JD_TEXT}', description)
+  const client = new OpenAI({
+    apiKey,
+    baseURL: 'https://openrouter.ai/api/v1',
+    defaultHeaders: { 'HTTP-Referer': 'https://signalmap.vercel.app', 'X-Title': 'SignalMap' },
+  })
+  const userPrompt = EXTRACTION_PROMPT.replace('{JD_TEXT}', description)
 
-  const response = await client.messages.create({
-    model: 'claude-sonnet-4-6',
+  const completion = await client.chat.completions.create({
+    model: 'openai/gpt-4o-mini',
     max_tokens: 800,
-    messages: [{ role: 'user', content: prompt }],
+    messages: [{ role: 'user', content: userPrompt }],
+    response_format: { type: 'json_object' },
   })
 
-  const text = response.content.find(b => b.type === 'text')
-  if (!text || text.type !== 'text') throw new Error('No text content in response')
+  const text = completion.choices[0]?.message?.content ?? ''
+  if (!text) throw new Error('No content in response')
 
-  const parsed = JSON.parse(text.text) as { skills: ExtractedSkill[] }
+  const parsed = JSON.parse(text) as { skills: ExtractedSkill[] }
   return parsed.skills.filter(s => s.name && s.confidence > 0)
 }
 

@@ -1,4 +1,4 @@
-import { claudeClient } from '@/lib/claude/client'
+import { claudeClient, AI_MODELS } from '@/lib/claude/client'
 import type { CandidateAnalysis, SkillDemand, Industry, MissingSkill, RecommendedRole } from '@/lib/types'
 
 const VALID_INDUSTRIES = new Set<Industry>([
@@ -78,21 +78,19 @@ export async function analyzeCandidate(
     .replace('{CANDIDATE_SKILLS}', candidateSkills.join(', '))
     .replace('{MARKET_DEMAND_DATA}', marketData)
 
-  const message = await claudeClient.messages.create({
-    model: 'claude-opus-4-8',
+  const completion = await claudeClient.chat.completions.create({
+    model: AI_MODELS.analysis,
     max_tokens: 1200,
     messages: [{ role: 'user', content: prompt }],
+    response_format: { type: 'json_object' },
   })
 
-  const firstBlock = message.content[0]
-  if (firstBlock.type !== 'text') {
-    throw new Error('Unexpected non-text response from Claude')
-  }
+  const text = completion.choices[0]?.message?.content ?? ''
+  if (!text) throw new Error('No content in AI response')
 
-  const jsonMatch = firstBlock.text.match(/\{[\s\S]*\}/)
-  if (!jsonMatch) {
-    throw new Error('No valid JSON found in Claude response')
-  }
+  // Regex fallback in case model wraps JSON in markdown fences
+  const jsonMatch = text.match(/\{[\s\S]*\}/)
+  if (!jsonMatch) throw new Error('No valid JSON in AI response')
 
   const raw = JSON.parse(jsonMatch[0]) as RawAnalysis
 

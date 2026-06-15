@@ -1,8 +1,9 @@
 import type { NextRequest } from 'next/server'
 import type { ApiResponse, SkillDemand, Industry, City } from '@/lib/types'
-import { loadSeedJobs } from '@/lib/pipeline/loader'
+import { loadAllJobs } from '@/lib/pipeline/loader'
 import { transformJobs } from '@/lib/pipeline/transformer'
 import { computeSkillDemand } from '@/lib/pipeline/aggregator'
+import { enrichWithHistoricalTrends } from '@/lib/pipeline/history'
 
 export async function GET(request: NextRequest): Promise<Response> {
   try {
@@ -14,11 +15,12 @@ export async function GET(request: NextRequest): Promise<Response> {
     const limit = Math.min(100, Math.max(1, parseInt(searchParams.get('limit') ?? '20', 10)))
     const sort = (searchParams.get('sort') ?? 'demand') as 'demand' | 'alpha'
 
-    const jobs = transformJobs(loadSeedJobs())
+    const jobs = transformJobs(loadAllJobs())
     const skills = computeSkillDemand(jobs, { industry, city, seniority, limit, sort })
+    const enriched = enrichWithHistoricalTrends(skills, jobs.length)
 
     const body: ApiResponse<SkillDemand[]> = {
-      data: skills,
+      data: enriched,
       success: true,
       timestamp: new Date().toISOString(),
     }

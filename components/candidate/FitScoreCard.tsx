@@ -139,6 +139,44 @@ export function FitScoreCard({ analysis }: FitScoreCardProps) {
         </Card>
       )}
 
+      {/* C-P1-01: Talentbank integration — search roles on Graduan/Talentbank */}
+      {analysis.recommendedRoles.length > 0 && (
+        <div className="rounded-lg border border-brand-primary/20 bg-brand-primary/5 p-4">
+          <div className="mb-3 flex items-center justify-between gap-2">
+            <p className="text-sm font-semibold text-brand-primary">
+              Find these roles on Talentbank
+            </p>
+            <span className="shrink-0 rounded-full bg-brand-primary/10 px-2 py-0.5 text-xs font-medium text-brand-primary">
+              Malaysia&apos;s #1 Graduate Platform
+            </span>
+          </div>
+          <div className="space-y-2">
+            {analysis.recommendedRoles.slice(0, 3).map(role => (
+              <a
+                key={role.title}
+                href={`https://www.graduan.com/job?keyword=${encodeURIComponent(role.title)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-between rounded-md border border-border/50 bg-background px-3 py-2.5 transition-colors hover:border-brand-primary/40 hover:bg-brand-primary/5"
+              >
+                <div className="min-w-0">
+                  <p className="truncate text-sm font-medium">{role.title}</p>
+                  <p className="text-xs text-muted-foreground capitalize">
+                    {role.industry} · {role.salaryRange} · {role.matchPercentage}% match
+                  </p>
+                </div>
+                <span className="ml-3 shrink-0 text-xs font-medium text-brand-teal">
+                  Search →
+                </span>
+              </a>
+            ))}
+          </div>
+          <p className="mt-2.5 text-xs text-muted-foreground">
+            Searches Graduan by Talentbank — Malaysia&apos;s largest graduate job platform
+          </p>
+        </div>
+      )}
+
       {/* Quickest win hint */}
       {topMissing?.resourceSuggestion && (
         <div className="rounded-lg bg-muted/50 p-3 text-xs text-muted-foreground">

@@ -1,0 +1,58 @@
+name: Refresh Job Data Pipeline
+
+on:
+  schedule:
+    # Daily at 02:00 UTC = 10:00 MYT
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max jobs to scrape per source'
+        required: false
+        default: '150'
+
+jobs:
+  scrape-and-refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Scrape JobStreet
+        run: npx tsx scripts/scrape-jobstreet.ts --limit ${{ github.event.inputs.limit || '150' }}
+        continue-on-error: true
+
+      - name: Scrape MYFutureJobs
+        run: npx tsx scripts/scrape-myfuturejobs.ts --limit ${{ github.event.inputs.limit || '150' }}
+        continue-on-error: true
+
+      - name: Extract skills from new postings
+        run: echo "y" | npx tsx scripts/extract-skills.ts
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        continue-on-error: true
+
+      - name: Save historical snapshot
+        run: npx tsx scripts/save-snapshot.ts
+        continue-on-error: true
+
+      - name: Commit updated data
+        run: |
+          git config user.name "SignalMap Pipeline Bot"
+          git config user.email "noreply@signalmap.my"
+          git add lib/data/scraped-jobs.json lib/data/history/ || true
+          git diff --cached --quiet || git commit -m "chore(data): refresh job data $(date -u +%Y-%m-%d) [skip ci]"
+          git push || echo "Nothing to push"

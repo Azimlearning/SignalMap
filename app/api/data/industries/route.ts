@@ -1,12 +1,12 @@
 import type { ApiResponse } from '@/lib/types'
 import type { IndustryStat } from '@/lib/pipeline/aggregator'
-import { loadSeedJobs } from '@/lib/pipeline/loader'
+import { loadAllJobs } from '@/lib/pipeline/loader'
 import { transformJobs } from '@/lib/pipeline/transformer'
 import { computeIndustryStats } from '@/lib/pipeline/aggregator'
 
 export async function GET(): Promise<Response> {
   try {
-    const jobs = transformJobs(loadSeedJobs())
+    const jobs = transformJobs(loadAllJobs())
     const stats = computeIndustryStats(jobs)
 
     const body: ApiResponse<IndustryStat[]> = {
