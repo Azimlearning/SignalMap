@@ -44,6 +44,11 @@ export function FilterPanel() {
   const setFilter = useDashboardStore(s => s.setFilter)
   const totalPostings = useDashboardStore(s => s.totalPostings)
   const skillDemands = useDashboardStore(s => s.skillDemands)
+  const pipelineStatus = useDashboardStore(s => s.pipelineStatus)
+
+  const sourceLabel = pipelineStatus?.dataFreshness === 'live'
+    ? 'Live (JSearch + seed)'
+    : 'Seed data'
 
   return (
     <aside className="space-y-6">
@@ -125,7 +130,7 @@ export function FilterPanel() {
           </div>
           <div className="flex justify-between text-sm">
             <dt className="text-gray-500">Source</dt>
-            <dd className="font-semibold text-gray-900">Seed data</dd>
+            <dd className="font-semibold text-gray-900">{sourceLabel}</dd>
           </div>
         </dl>
       </div>

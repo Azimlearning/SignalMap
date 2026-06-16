@@ -7,7 +7,7 @@ export const claudeClient = new OpenAI({
   baseURL: 'https://openrouter.ai/api/v1',
   defaultHeaders: {
     'HTTP-Referer': process.env.NEXT_PUBLIC_APP_URL ?? 'https://signalmap.vercel.app',
-    'X-Title': 'SignalMap — Malaysian Talent Intelligence',
+    'X-Title': 'SignalMap - Malaysian Talent Intelligence',
   },
 })
 

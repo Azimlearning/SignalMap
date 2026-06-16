@@ -2,6 +2,15 @@
 import { create } from 'zustand'
 import type { DashboardFilters, SkillDemand } from '@/lib/types'
 
+interface PipelineStatus {
+  seedJobs: number
+  scrapedJobs: number
+  totalJobs: number
+  snapshotDates: string[]
+  latestSnapshot: string | null
+  dataFreshness: 'seed-only' | 'live'
+}
+
 interface DashboardState {
   filters: DashboardFilters
   skillDemands: SkillDemand[]
@@ -11,6 +20,7 @@ interface DashboardState {
   isLoadingSkills: boolean
   isLoadingTrending: boolean
   error: string | null
+  pipelineStatus: PipelineStatus | null
   setFilter: (key: keyof DashboardFilters, value: string) => void
   fetchSkills: () => Promise<void>
   fetchTrending: () => Promise<void>
@@ -33,6 +43,7 @@ export const useDashboardStore = create<DashboardState>()((set, get) => ({
   isLoadingSkills: false,
   isLoadingTrending: false,
   error: null,
+  pipelineStatus: null,
 
   setFilter: (key, value) => {
     set(state => ({ filters: { ...state.filters, [key]: value } }))
@@ -83,7 +94,14 @@ export const useDashboardStore = create<DashboardState>()((set, get) => ({
         set({ totalPostings: total })
       }
     } catch {
-      // non-fatal — totalPostings stays 0
+      // non-fatal
+    }
+    try {
+      const res = await fetch('/api/pipeline/refresh')
+      const json = (await res.json()) as { success: boolean; data: PipelineStatus }
+      if (json.success) set({ pipelineStatus: json.data })
+    } catch {
+      // non-fatal
     }
   },
 }))

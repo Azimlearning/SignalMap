@@ -31,6 +31,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Fetch live jobs from JSearch API
+        run: npx tsx scripts/fetch-jsearch.ts --limit ${{ github.event.inputs.limit || '100' }} --pages 3
+        env:
+          JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+        continue-on-error: true
+
       - name: Scrape JobStreet
         run: npx tsx scripts/scrape-jobstreet.ts --limit ${{ github.event.inputs.limit || '150' }}
         continue-on-error: true

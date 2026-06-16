@@ -7,10 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "fetch": "npx tsx scripts/fetch-jsearch.ts",
     "scrape": "npx tsx scripts/scrape-jobstreet.ts && npx tsx scripts/scrape-myfuturejobs.ts",
     "extract": "npx tsx scripts/extract-skills.ts",
     "snapshot": "npx tsx scripts/save-snapshot.ts",
-    "pipeline": "npm run scrape && npm run extract && npm run snapshot"
+    "pipeline": "npm run fetch && npm run scrape && npm run extract && npm run snapshot"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.104.1",

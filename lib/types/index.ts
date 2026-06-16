@@ -13,7 +13,7 @@ export interface JobPosting {
   rawDescription: string
   extractedSkills?: ExtractedSkill[]
   postedAt: string // ISO date
-  source: 'seed' | 'jobstreet' | 'myfuturejobs'
+  source: 'seed' | 'jobstreet' | 'myfuturejobs' | 'jsearch'
 }
 
 export interface ExtractedSkill {

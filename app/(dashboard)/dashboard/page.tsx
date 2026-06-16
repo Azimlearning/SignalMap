@@ -13,7 +13,15 @@ import { Clock } from 'lucide-react'
 
 function FreshnessBar() {
   const lastFetched = useDashboardStore(s => s.lastFetched)
+  const pipelineStatus = useDashboardStore(s => s.pipelineStatus)
   if (!lastFetched) return null
+
+  const isLive = pipelineStatus?.dataFreshness === 'live'
+  const sourceLabel = isLive
+    ? `Live (${pipelineStatus.scrapedJobs} scraped + seed)`
+    : 'Seed data'
+  const snapshotDate = pipelineStatus?.latestSnapshot ?? new Date().toLocaleDateString('en-MY', { month: 'long', year: 'numeric' })
+
   return (
     <div className="flex items-center gap-1.5 text-xs text-gray-400">
       <Clock className="w-3 h-3" aria-hidden />
@@ -21,7 +29,9 @@ function FreshnessBar() {
         Last updated{' '}
         {lastFetched.toLocaleTimeString('en-MY', { hour: '2-digit', minute: '2-digit' })}
         {' · '}
-        <span className="text-gray-300">Seed data · June 2026</span>
+        <span className={isLive ? 'text-brand-teal' : 'text-gray-300'}>
+          {sourceLabel} · {snapshotDate}
+        </span>
       </span>
     </div>
   )
