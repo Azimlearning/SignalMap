@@ -1,4 +1,5 @@
 'use client'
+import { useEffect, useState } from 'react'
 import {
   LineChart,
   Line,
@@ -8,8 +9,11 @@ import {
   ResponsiveContainer,
 } from 'recharts'
 import type { SkillDemand } from '@/lib/types'
+import type { TrendResponse, SkillTrendSeries } from '@/app/api/data/trend/route'
 import { useDashboardStore } from '@/store/dashboardStore'
 import { Skeleton } from '@/components/ui/skeleton'
+
+// ── Synthetic fallback (used when only 1 snapshot exists) ────────────────────
 
 const DAYS = 30
 const SEED_DATE = new Date('2026-06-15')
@@ -20,26 +24,20 @@ function dayLabel(daysAgo: number): string {
   return `${d.getDate()}/${d.getMonth() + 1}`
 }
 
-/**
- * Generates a synthetic 30-day demand series for a skill.
- * Uses the trend direction + trendPercentage to produce a plausible curve
- * from the seed data (which only has a single current-day snapshot).
- */
 function generateSeries(skill: SkillDemand): Array<{ day: string; count: number }> {
   const end = skill.postingCount
   const pct = skill.trendPercentage ?? 0
   const start = Math.max(1, Math.round(end / (1 + pct / 100)))
 
   return Array.from({ length: DAYS }, (_, i) => {
-    // Smooth sigmoid interpolation from start → end over 30 days
     const t = i / (DAYS - 1)
-    const smooth = t * t * (3 - 2 * t) // smoothstep
-    // Add slight noise (±5%) for realism
+    const smooth = t * t * (3 - 2 * t)
     const noise = 1 + (Math.sin(i * 2.3 + skill.skillName.length) * 0.05)
-    const count = Math.max(0, Math.round((start + (end - start) * smooth) * noise))
-    return { day: dayLabel(i), count }
+    return { day: dayLabel(i), count: Math.max(0, Math.round((start + (end - start) * smooth) * noise)) }
   })
 }
+
+// ── Color map ────────────────────────────────────────────────────────────────
 
 const TREND_COLOR: Record<SkillDemand['trend'], string> = {
   rising: '#16A34A',
@@ -47,11 +45,54 @@ const TREND_COLOR: Record<SkillDemand['trend'], string> = {
   falling: '#DC2626',
 }
 
-interface SparklineProps {
-  skill: SkillDemand
+// ── Real-data sparkline ───────────────────────────────────────────────────────
+
+function RealSparkline({ series: rawSeries, color }: {
+  series: SkillTrendSeries
+  color: string
+}) {
+  const data = rawSeries.series.map(p => ({
+    day: p.date.slice(5), // "MM-DD"
+    count: p.count,
+  }))
+
+  const latest = data[data.length - 1]?.count ?? 0
+  const first = data[0]?.count ?? 0
+  const pct = first > 0 ? Math.round(((latest - first) / first) * 100) : null
+
+  return (
+    <div className="space-y-1">
+      <div className="flex items-center justify-between">
+        <span className="text-xs font-medium text-gray-800">{rawSeries.skillName}</span>
+        <span className="text-xs font-semibold" style={{ color }}>
+          {pct != null ? `${pct > 0 ? '+' : ''}${pct}%` : '—'}
+        </span>
+      </div>
+      <ResponsiveContainer width="100%" height={48}>
+        <LineChart data={data} margin={{ top: 2, right: 2, bottom: 2, left: 2 }}>
+          <XAxis dataKey="day" hide />
+          <YAxis hide domain={['auto', 'auto']} />
+          <Tooltip
+            content={({ active, payload, label }) => {
+              if (!active || !payload?.length) return null
+              return (
+                <div className="rounded border bg-white px-2 py-1 shadow text-xs">
+                  <span className="text-gray-500">{label}: </span>
+                  <span className="font-semibold">{payload[0].value} jobs</span>
+                </div>
+              )
+            }}
+          />
+          <Line type="monotone" dataKey="count" stroke={color} strokeWidth={1.5} dot={false} activeDot={{ r: 3, strokeWidth: 0 }} />
+        </LineChart>
+      </ResponsiveContainer>
+    </div>
+  )
 }
 
-function Sparkline({ skill }: SparklineProps) {
+// ── Synthetic sparkline (fallback) ───────────────────────────────────────────
+
+function SyntheticSparkline({ skill }: { skill: SkillDemand }) {
   const series = generateSeries(skill)
   const color = TREND_COLOR[skill.trend]
   const pct = skill.trendPercentage
@@ -60,10 +101,7 @@ function Sparkline({ skill }: SparklineProps) {
     <div className="space-y-1">
       <div className="flex items-center justify-between">
         <span className="text-xs font-medium text-gray-800">{skill.skillName}</span>
-        <span
-          className="text-xs font-semibold"
-          style={{ color }}
-        >
+        <span className="text-xs font-semibold" style={{ color }}>
           {pct != null ? `${pct > 0 ? '+' : ''}${pct}%` : '—'}
         </span>
       </div>
@@ -82,30 +120,37 @@ function Sparkline({ skill }: SparklineProps) {
               )
             }}
           />
-          <Line
-            type="monotone"
-            dataKey="count"
-            stroke={color}
-            strokeWidth={1.5}
-            dot={false}
-            activeDot={{ r: 3, strokeWidth: 0 }}
-          />
+          <Line type="monotone" dataKey="count" stroke={color} strokeWidth={1.5} dot={false} activeDot={{ r: 3, strokeWidth: 0 }} />
         </LineChart>
       </ResponsiveContainer>
     </div>
   )
 }
 
+// ── Main component ────────────────────────────────────────────────────────────
+
 export function TrendLine() {
   const skillDemands = useDashboardStore(s => s.skillDemands)
   const isLoading = useDashboardStore(s => s.isLoadingSkills)
 
-  // Show top 6 skills that have a trend signal
+  const [trendData, setTrendData] = useState<TrendResponse | null>(null)
+  const [trendLoading, setTrendLoading] = useState(true)
+
+  useEffect(() => {
+    fetch('/api/data/trend?limit=6')
+      .then(r => r.json())
+      .then((json: { success: boolean; data: TrendResponse }) => {
+        if (json.success) setTrendData(json.data)
+      })
+      .catch(() => {})
+      .finally(() => setTrendLoading(false))
+  }, [])
+
   const topSkills = skillDemands
     .filter(s => s.trendPercentage != null)
     .slice(0, 6)
 
-  if (isLoading) {
+  if (isLoading || trendLoading) {
     return (
       <div className="space-y-4">
         {Array.from({ length: 4 }).map((_, i) => (
@@ -121,19 +166,36 @@ export function TrendLine() {
     )
   }
 
-  if (topSkills.length === 0) {
+  // Real data path: ≥2 snapshots available
+  if (trendData?.hasRealData && trendData.skills.length > 0) {
     return (
-      <p className="text-sm text-gray-400">No trend data available for current filters.</p>
+      <div className="space-y-4">
+        <p className="text-xs text-brand-teal font-medium">
+          Real trends · {trendData.snapshotCount} snapshots · {trendData.skills[0]?.series[0]?.date} → {trendData.skills[0]?.series[trendData.skills[0].series.length - 1]?.date}
+        </p>
+        {trendData.skills.map((s, i) => (
+          <RealSparkline
+            key={s.skillName}
+            series={s}
+            color={TREND_COLOR[topSkills[i]?.trend ?? 'stable']}
+          />
+        ))}
+      </div>
     )
+  }
+
+  // Fallback: synthetic projection
+  if (topSkills.length === 0) {
+    return <p className="text-sm text-gray-400">No trend data available for current filters.</p>
   }
 
   return (
     <div className="space-y-4">
       <p className="text-xs text-gray-400 italic">
-        Simulated 30-day trend · based on seed data signals
+        Projected trend · based on current snapshot signals
       </p>
       {topSkills.map(skill => (
-        <Sparkline key={skill.skillName} skill={skill} />
+        <SyntheticSparkline key={skill.skillName} skill={skill} />
       ))}
     </div>
   )

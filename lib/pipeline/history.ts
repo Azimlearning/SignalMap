@@ -61,6 +61,41 @@ export function getLatestSnapshot(): SkillSnapshot | null {
   return loadSnapshot(dates[dates.length - 1])
 }
 
+// Returns ordered time series for a single skill across all saved snapshots.
+export function getSkillTimeSeries(
+  skillName: string,
+): Array<{ date: string; count: number }> {
+  const dates = listSnapshotDates()
+  return dates.map(date => {
+    const snap = loadSnapshot(date)
+    return { date, count: snap?.skills[skillName] ?? 0 }
+  })
+}
+
+// Returns dates + top-N skills with their full time series, ordered by latest count desc.
+export function getTopSkillsWithTimeSeries(
+  limit = 6,
+): Array<{ skillName: string; series: Array<{ date: string; count: number }> }> {
+  const dates = listSnapshotDates()
+  if (dates.length === 0) return []
+
+  const latest = loadSnapshot(dates[dates.length - 1])
+  if (!latest) return []
+
+  const topNames = Object.entries(latest.skills)
+    .sort(([, a], [, b]) => b - a)
+    .slice(0, limit)
+    .map(([name]) => name)
+
+  return topNames.map(skillName => ({
+    skillName,
+    series: dates.map(date => ({
+      date,
+      count: loadSnapshot(date)?.skills[skillName] ?? 0,
+    })),
+  }))
+}
+
 // Overrides trend/trendPercentage on skillDemands using real 30-day historical delta.
 // If no history is available, returns skills unchanged (aggregator's SEED_TREND_MAP stays in effect).
 export function enrichWithHistoricalTrends(skills: SkillDemand[], totalJobs: number): SkillDemand[] {
