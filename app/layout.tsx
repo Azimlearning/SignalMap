@@ -41,6 +41,12 @@ export default function RootLayout({
               >
                 Dashboard
               </Link>
+              <Link
+                href="/career-path"
+                className="text-white/80 hover:text-white transition-colors font-medium"
+              >
+                Career Paths
+              </Link>
               <span className="text-white/30">|</span>
               <span className="text-white/50 text-xs">Team Dang Wangi</span>
             </div>
