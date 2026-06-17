@@ -10699,5 +10699,477 @@
     ],
     "postedAt": "2026-06-16",
     "source": "wobb"
+  },
+  {
+    "id": "wobb-2f2ca827-9dc5-432e-8c66-6a7fe5207e83",
+    "title": "Sales Executive (Company Car Provided)",
+    "company": "Kinect Solutions Sdn Bhd",
+    "industry": "engineering",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "This job is perfect for fresh grads eager to dive into sales! You might like this job because you get to build client relationships, drive growth, and even enjoy a company car while developing your skills in a supportive environment.",
+    "extractedSkills": [
+      {
+        "name": "Response Rate",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Professional Responsibility",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Discipline",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Computer Literacy",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Continuous Improvement Process",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Prioritization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Following Directions",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Critical Thinking",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Forecasting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-f6312927-e0be-4bb6-8b74-0f2d5f704c29",
+    "title": "Internship Marketing & Business",
+    "company": "Big Fat Smile Sdn Bhd",
+    "industry": "technology",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "This job is an internship in Marketing & Business where you'll help with eCommerce and affiliate marketing. You might like this job because you'll gain hands-on experience while working on exciting digital projects and collaborating with a dynamic team!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Sheets",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Entry",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Willingness To Learn",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Professional Responsibility",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-30fb2ddc-7309-4c1c-8f16-6e686be64e52",
+    "title": "Front Desk Officer Reception",
+    "company": "DASHER",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is a Front Desk Officer at Dasher, where you'll greet customers, assist with warranty claims, and handle parcel management. You might like this job because of our innovative culture that champions creativity and growth in a supportive team!",
+    "extractedSkills": [
+      {
+        "name": "Verbal Communication Skills",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Greeting Customers",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-29b973fa-8a33-4e42-a1e7-05086bcc8b7d",
+    "title": "Regional Specialist, Marketing Technology",
+    "company": "ZUS COFFEE",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "This job is about being the go-to expert for ZUS Coffee’s marketing tech, ensuring everything runs smoothly and integrates well. You might like this job because it allows you to shape data-driven strategies that fuel growth and innovation.",
+    "extractedSkills": [
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Systems Integration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Enterprise Application Integration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Integrated Marketing Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5caef973-9250-4751-918c-d00a5e50318a",
+    "title": "Internship Student Consultant (Only Malaysians)",
+    "company": "FINTLAS | Applied Fintech Learning",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an opportunity to become an Internship Student Consultant focused on fintech in Malaysia. You might like this job because you'll share insights, host a group session, and promote courses while engaging with parents and students!",
+    "extractedSkills": [
+      {
+        "name": "Artificial Intelligence",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Blockchain",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cyber Security",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Machine Learning",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Computer Science",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Information Technology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "R (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Python (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Technology (FinTech)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Emerging Technologies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 120,
+    "salaryMax": 120
+  },
+  {
+    "id": "wobb-20c78615-a793-4032-9b08-e046ad337a25",
+    "title": "Business Development Executive (Micro Electronic Component)",
+    "company": "EAGLE EIDA INTERNATIONAL SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is all about finding new clients and helping them with micro electronic components. You might like this job because you get to build relationships, present solutions, and work with a fun team while hitting sales goals!",
+    "extractedSkills": [
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business To Business",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Strategies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communicative Approaches",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Electronic Components",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-cabc0eda-7fa3-4b63-9d16-05ec3a2025a3",
+    "title": "Internship Social Media Marketing",
+    "company": "Digital Symphony",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an internship in social media marketing at a fast-growing digital agency. You might like this job because you'll create fun content, work with brands, and analyze social media trends, all while gaining valuable hands-on experience!",
+    "extractedSkills": [
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-58e12319-88ba-4ca3-9875-14a712b74b01",
+    "title": "Internship Creative Designer",
+    "company": "Digital Symphony",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship Creative Designer where you'll create real designs for clients, like digital ads and social media posts. You might like this job because you'll gain valuable hands-on experience and have a mentor to guide you!",
+    "extractedSkills": [
+      {
+        "name": "Creative Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Creative Suite",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-30b7436d-64d9-4db5-863b-941a2ccf8054",
+    "title": "Remote WeChat/Alipay Tester",
+    "company": "kara  technology (m) sdn. bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is all about testing WeChat Pay and Alipay to make sure everything works smoothly. You might like this job because you’ll help improve payment systems while working remotely, spotting issues, and ensuring user satisfaction!",
+    "extractedSkills": [
+      {
+        "name": "Office App",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-3216e937-68b6-4498-b1ca-37f8a6aaacb8",
+    "title": "Executive, Accounting & Procurement (Entry-Level)",
+    "company": "Malaysian Institute for Development of Professionals",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an entry-level position where you’ll help manage daily finances and purchases for the company. You might like this job because you’ll support a team, work with vendors, and learn a lot about accounting and procurement!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Bookkeeping",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Investments",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Procurement",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 3100
   }
 ]
