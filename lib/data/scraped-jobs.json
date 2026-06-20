@@ -21170,5 +21170,3058 @@
     "source": "wobb",
     "salaryMin": 4500,
     "salaryMax": 5500
+  },
+  {
+    "id": "wobb-c47427b3-3ae1-4735-8436-8505fd1c12d8",
+    "title": "Retail Salesperson (Smartphone & Gadget) Factory Mobile Kota Bharu",
+    "company": "Exclusive Factory Mobile Sdn Bhd",
+    "industry": "retail",
+    "city": "other",
+    "seniority": "junior",
+    "rawDescription": "This job is about selling smartphones and gadgets at Factory Mobile Kota Bharu. You might like this job because it combines sales targets with helping customers and learning about cool tech products!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Verbal Communication Skills",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-fc50affe-33bb-4952-bcd1-fadfd42ac0a0",
+    "title": "Warehouse Helper",
+    "company": "AYA Real Food",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is a Warehouse Helper, where you'll support daily tasks like receiving, storing, and packing products. You might like this job because it involves teamwork, keeps you active, and ensures goods are handled safely and neatly!",
+    "extractedSkills": [
+      {
+        "name": "Physical Fitness",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Warehouse Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-eeb04936-ba6e-49b6-aea0-09b5291fe609",
+    "title": "Internship in Administration",
+    "company": "Vivahomes Realty Sdn Bhd (HQ)",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship in Administration at Vivahomes Realty, a top real estate agency in Malaysia. You might like this job because you'll gain hands-on experience in a dynamic team and learn all about real estate while supporting daily operations!",
+    "extractedSkills": [
+      {
+        "name": "Administrative Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Organizational Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-e4427750-96e0-41e5-a2a6-7ba3ec7d211e",
+    "title": "Internship in Social Media",
+    "company": "Vivahomes Realty Sdn Bhd (HQ)",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an internship in social media at Vivahomes Realty, a top real estate agency in Malaysia. You might like this job because you'll create fun posts, work with photos and videos, and learn the latest trends while engaging with our audience!",
+    "extractedSkills": [
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-1718f2e7-d5bd-4625-87b8-8126d2123a43",
+    "title": "Hotel Receptionist",
+    "company": "Paradise Home Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is all about being the friendly face of a hotel! You’ll help guests check in and out, answer their questions, and make sure their rooms are ready. You might like this job because you enjoy helping people and making their stay special!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Call Center Experience",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Computer Literacy",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-56273177-e768-4d1f-ba90-b3bb49361c1e",
+    "title": "Market Research Executive",
+    "company": "Pinnacle Analytics",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Market Research Executive where you'll manage research projects and collaborate with teams to gather insights. You might like this job because it combines technology and creativity in helping clients make informed decisions!",
+    "extractedSkills": [
+      {
+        "name": "SPSS (Statistical Software)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Acumen",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data-Driven Decision Making",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Extroverted",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-1c36c75e-d4b5-4a1b-970d-e1efebb6eb3f",
+    "title": "PART TIME WFH ENGLISH TEACHER",
+    "company": "A PLUS EDU SDN. BHD.",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "This job is a part-time English teacher role where you can work from home! You might like this job because you set your own hours, have zero prep work, and receive full training. Earn RM15.00 - RM40.00 per hour while helping kids learn!",
+    "extractedSkills": [
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Online Teaching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Student Engagement",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-a444d091-1c9a-4a23-ba46-0eaead38e7cd",
+    "title": "Internship Accounting & Finance Assistant",
+    "company": "MOTOR EXPRESS DELIVERY SDN BHD",
+    "industry": "finance",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "This job is for an Accounting & Finance Assistant in a logistics company. You might like this job because it offers hands-on experience with financial operations and the chance to grow in a supportive team while earning a competitive salary.",
+    "extractedSkills": [
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-6e319ee5-c197-4f93-b146-bd946f7de752",
+    "title": "Social Media Executive",
+    "company": "PersonEdge Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Social Media Executive who helps create exciting marketing strategies to boost engagement on platforms like Instagram and TikTok. You might like this job because you enjoy trends, creativity, and connecting with others online!",
+    "extractedSkills": [
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-05-21",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-381bb8ae-4865-4080-9a83-9acdac6aebb8",
+    "title": "Sales Consultant",
+    "company": "Dilooma Sdn. Bhd ",
+    "industry": "engineering",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "This job is as a Sales Consultant in a new showroom in Subang Jaya. You might like this job because it offers training, flexible shifts, and great benefits like bonuses and discounts, perfect for fresh grads eager to start in retail!",
+    "extractedSkills": [
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Process",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-02",
+    "source": "wobb",
+    "salaryMin": 6000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-d6435e9c-a23f-426f-a055-4da117ccfc0f",
+    "title": "MEDICAL SALES REPRESENTATIVE (PENANG)",
+    "company": "Teh Lin Prosthetic and Orthopaedic Co Sdn. Bhd.",
+    "industry": "healthcare",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Medical Sales Representative in Penang, where you'll promote prosthetic and orthopaedic products. You might like this job because you’ll connect with healthcare professionals and help improve patients' lives every day!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Word",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Point Of Sale",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Patient Assistance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Patient Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-05-21",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 8000
+  },
+  {
+    "id": "wobb-bc8975ec-38af-4a17-8d54-7c91cb066ab8",
+    "title": "Assistant Vice President, Strategy",
+    "company": "Impact Integrated",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "This job is as an Assistant Vice President of Strategy, where you'll help plan and execute a 5-year business strategy. You might like this job because you'll work with all teams to bring innovative ideas to life and improve company success!",
+    "extractedSkills": [
+      {
+        "name": "Google Workspace",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Visualization",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Strategies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Governance",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-05-21",
+    "source": "wobb",
+    "salaryMin": 4800,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-9b592fde-5cd4-4787-8af2-99d3b9f16597",
+    "title": "Senior Key Account Executive ",
+    "company": "iMedia Asia Sdn Bhd",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Senior Key Account Executive who leads a team to successfully manage influencer marketing campaigns. You might like this job because you'll get to innovate and strengthen client relationships while mentoring others in a dynamic environment.",
+    "extractedSkills": [
+      {
+        "name": "Influencer Marketing",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Agency Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-05-21",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-f88feda1-8001-4314-89b9-a337f83c9b12",
+    "title": "Sales & Business Development Manager",
+    "company": "COOKISS MOBILE SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Sales & Business Development Manager who finds new business opportunities and builds customer relations. You might like this job because it includes attending events, offers allowances, and promotes your brand!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Acumen",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Results Orientation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-04-21",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-f88feda1-8001-4314-89b9-a337f83c9b12",
+    "title": "Sales & Business Development Manager",
+    "company": "COOKISS MOBILE SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Sales & Business Development Manager who finds new business opportunities and builds customer relations. You might like this job because it includes attending events, offers allowances, and promotes your brand!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Acumen",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Results Orientation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-04-21",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-cef07924-2edc-4ab2-8d85-90e13704e636",
+    "title": "KOL Specialist",
+    "company": "Meishang Cosmetics Malaysia Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is all about connecting with key influencers to boost brand campaigns. You might like this job because it lets you build relationships, manage exciting projects, and keep track of how well they perform while handling logistics.",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Trends",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Key Opinion Leader Development",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing Strategies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Public Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-84375c76-4675-46e6-bc54-8db60961a660",
+    "title": "(Remote Working) Graphic Designer",
+    "company": "Inkmaginary ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Graphic Designer working remotely from Malaysia with a Singapore-based company. You might like this job because it combines static and motion design, pays well in SGD, and lets your creativity shine in storytelling through visuals!",
+    "extractedSkills": [
+      {
+        "name": "Illustration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photo Manipulation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Motion Graphics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Typography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Plating And Presentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-09",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 8000
+  },
+  {
+    "id": "wobb-63c84b13-dcb3-494a-8223-b8ac330cbee1",
+    "title": "Senior Technical Support Engineer",
+    "company": "Aptronics Sdn Bhd",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Senior Technical Support Engineer who solves complex tech problems, helps customers, and works with teams to deliver solutions. You might like this job because you enjoy troubleshooting and providing hands-on IT support in a collaborative environment!",
+    "extractedSkills": [
+      {
+        "name": "Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-04-21",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-de500b3a-8226-4794-a389-449ccd8ceffd",
+    "title": "Cloud Deployment Engineer/ DevOps Engineer",
+    "company": "OpenMinds™",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Cloud Deployment Engineer who loves Linux and solving tricky issues. You might like this job because you'll work with cool technologies like Kubernetes and tackle challenges in databases and networks daily!",
+    "extractedSkills": [
+      {
+        "name": "Linux",
+        "category": "cloud-devops",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Kubernetes",
+        "category": "cloud-devops",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Python (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Azure DevOps",
+        "category": "cloud-devops",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-21",
+    "source": "wobb",
+    "salaryMin": 7000,
+    "salaryMax": 10000
+  },
+  {
+    "id": "wobb-fdaaf651-7f63-495c-b99f-7109783bafb1",
+    "title": "Joyy&BIGO - Administrative Specialist",
+    "company": "Shopline Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Administrative Specialist at Joyy&BIGO, handling office operations and property management in Kuala Lumpur. You might like this job because you’ll coordinate with vendors and improve processes while ensuring smooth daily activities and tenant support!",
+    "extractedSkills": [
+      {
+        "name": "Office Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Administrative Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Company Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Administrative Functions",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Office Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-05",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-b06cd91a-18b4-4749-9c40-01c16ac03e32",
+    "title": "Sales Executive ",
+    "company": "Maze Concept Sdn Bhd",
+    "industry": "other",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "This job is a Sales Executive at MAZE CONCEPT, where you'll sell stylish wood panel solutions to developers and designers. You might like this job because of the high earning potential and supportive team culture, plus great benefits!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-26",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 15000
+  },
+  {
+    "id": "wobb-657c3640-5f77-4d45-8a7c-0bc83ee5469f",
+    "title": "PhD Consultant (Business Management, Social Science, Computer Science, Public Health)",
+    "company": "Proofreading by a UK PhD",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is a freelance consultant role where you help PhD and Master’s students with their theses and publications from home. You might like this job because it offers flexibility and values your expertise in academic publishing and advanced topics like Python and Deep Learning!",
+    "extractedSkills": [
+      {
+        "name": "NVivo",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Qualitative Research",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quantitative Analysis",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Analysis",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Scopus",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "SPSS (Statistical Software)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "ATLAS.ti (Qualitative Data Analysis Software)",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Consulting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Supervising Graduate Students",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Computer Science",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2025-08-16",
+    "source": "wobb",
+    "salaryMin": 1500,
+    "salaryMax": 10500
+  },
+  {
+    "id": "wobb-5ea377cc-d527-4df0-bc61-ba7256efc3f7",
+    "title": "Project Manager",
+    "company": "iWISERS",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "lead",
+    "rawDescription": "This job is for a Project Manager who processes social media data, presents insights to clients, and manages project teams. You might like this job because it allows for leadership in a dynamic, analytical environment.",
+    "extractedSkills": [
+      {
+        "name": "Data Analysis",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analyst Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Upselling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Reporting",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Statistical Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Delegation Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2025-09-11",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-996a3581-a33c-4157-b6a1-4b8a67fd14e6",
+    "title": "Senior Digital Marketing Executive",
+    "company": "LF CREATIVE GROUP",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Senior Digital Marketing Executive who plans and executes online marketing campaigns, creates engaging content, analyzes social media data, and communicates effectively in English and Mandarin. You might like this job because it offers the opportunity to work on agency pitches and proposals.",
+    "extractedSkills": [
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing Strategies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Branding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-01-22",
+    "source": "wobb",
+    "salaryMin": 4500,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-7ad5f52c-2196-4e54-aa9e-16b22b3bd8cd",
+    "title": "Retail Sales & Admin",
+    "company": "Pali Pali Trading Sdn Bhd",
+    "industry": "retail",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Retail Sales & Admin expert who loves helping customers find the right 3D printing products while keeping the store organized. You might like this job because it combines sales, customer service, and administrative tasks in a dynamic environment!",
+    "extractedSkills": [
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Administrative Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2000
+  },
+  {
+    "id": "wobb-3b251732-0a96-44cc-859a-001f402fadf7",
+    "title": "Technical Fulfillment Officer",
+    "company": "Transaction Network Services",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for a Technical Fulfillment Officer at TNS. You might like this job because you get to work with cutting-edge payment technology and directly support customers while solving technical issues. Join a talented team and grow your skills!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-3945b3f7-6c78-40cd-85f2-58cf6c9a6ee9",
+    "title": "Project Coordinator",
+    "company": "Air Products Shared Services Sdn. Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for a Project Coordinator at Air Products, where you'll help manage projects that impact space exploration and healthcare. You might like this job because you'll work in a supportive team, ensuring everything runs smoothly while gaining valuable experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-334f1721-6682-4a84-bb8b-5ba05f3a1c74",
+    "title": "Plant Engineer - Pengerang",
+    "company": "Air Products Shared Services Sdn. Bhd.",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for a Plant Engineer in Pengerang, where you'll oversee the safe operations of equipment. You might like this job because you'll work hands-on with new technologies, ensure safety compliance, and collaborate with a diverse team!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5c59db54-7c7b-4f9a-a2d2-1cf3a815e2b5",
+    "title": "Assistant Financial Controller",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for an Assistant Financial Controller at a hotel. You might like this job because you'll guide the hotel’s finances, create budgets, and ensure accurate financial reports while helping a team thrive in a fun and dynamic environment!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2e393d74-4741-4ba5-9483-4eacd75cfcac",
+    "title": "Assistant F&B Sales Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for an Assistant F&B Sales Manager who ensures a great experience for guests and smooth teamwork. You might like this job because you’ll lead a team, hire and train staff, and play a key role in creating a welcoming atmosphere.",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ecf52fe2-a9f8-41dc-a385-d49a24b6dfd3",
+    "title": "Assistant Director of Events",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for an Assistant Director of Events, where you'll help plan and execute amazing events. You might like this job because you enjoy creativity, teamwork, and ensuring guests have a fantastic experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-cc68d12f-e489-40c2-9e1a-0595c5a0986e",
+    "title": "Assistant Dim Sum Chef",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for an Assistant Dim Sum Chef who coordinates kitchen activities, ensures food quality, and helps train staff. You might like this job because you enjoy teamwork, food presentation, and have a knack for keeping things organized!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-56f2bfce-44df-4e41-a66e-0bb248fd52b7",
+    "title": "Operational Senior Buyer (German Speaker)",
+    "company": "Evonik Malaysia Sdn. Bhd.",
+    "industry": "retail",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for an Operational Senior Buyer who speaks German. You might like this job because you’ll help optimize procurement processes and work on exciting projects in a flexible and supportive environment at Evonik with 33,000 colleagues!",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-7187e417-786c-460f-ac81-f18db0c7eb0d",
+    "title": "Digital Core Consultant - Backup&File",
+    "company": "Evonik Malaysia Sdn. Bhd.",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is a Digital Core Consultant focusing on backup and file services. You might like this job because it offers flexible work, innovative projects, and a chance to work with cutting-edge technology alongside a diverse team.",
+    "extractedSkills": [],
+    "postedAt": "2026-06-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c26e7263-b7c3-488f-96a4-647ce0dea228",
+    "title": "Events Venue Representative",
+    "company": "huensusan@designerfinish.com.my",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Events Venue Representative at Glasshouse at Seputeh. You might like this job because it involves making events special while connecting with clients and driving sales. It’s perfect for organized, friendly people who love creating memorable experiences!",
+    "extractedSkills": [
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Coordination",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Supervision",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Troubleshooting (Problem Solving)",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-3031eb2c-7b03-4cfe-8008-07d29912dbbb",
+    "title": "Restaurant Server",
+    "company": "Beyond Korea Sdn Bhd",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is all about bringing smiles to guests in a lively Korean restaurant. You might like this job because you’ll get to serve delicious food, make people feel welcome, and be part of a fun team dedicated to great customer experiences!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Greeting Customers",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Troubleshooting (Problem Solving)",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Professionalism",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Safety And Sanitation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Quality Assurance And Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Hygiene",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-20",
+    "source": "wobb",
+    "salaryMin": 1800,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-29c0998d-56c7-4cd6-bc6c-3d5a1d017cea",
+    "title": "Internship OPERATION @ WAREHOUSE  SHAH ALAM / KLANG",
+    "company": "FEIKEN BEARING",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship at a Warehouse in Shah Alam/Klang where you'll help with receiving, storing, and packing products. You might like this job because you’ll learn to operate equipment like forklifts while ensuring orders are accurate and safe!",
+    "extractedSkills": [
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Order Picking",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Packing and Filling Lines Operation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Machine Operation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 500
+  },
+  {
+    "id": "wobb-61bab5b9-2a31-4389-92aa-5e900cbaed22",
+    "title": "Internship PRODUCTION @ QUALITY CONTROL  SHAH ALAM / KLANG",
+    "company": "FEIKEN BEARING",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship in Quality Control at Shah Alam/Klang. You might like this job because you'll inspect products, keep records, and work closely with the production team to solve quality issues. Perfect for hands-on learners eager to ensure quality!",
+    "extractedSkills": [
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Organizational Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 500
+  },
+  {
+    "id": "wobb-8de13360-f706-4331-b8ec-b0e195a8eb55",
+    "title": "Software Engineer/Site Reliability Engineer",
+    "company": "CoinWorldCap",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is for an AI Product Engineer focusing on building innovative Fintech applications. You might like this job because you'll use cutting-edge AI tools to enhance user experience in web/mobile development while collaborating in Mandarin!",
+    "extractedSkills": [
+      {
+        "name": "Software Engineering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Front-End Engineering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Custom Backend",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 10000
+  },
+  {
+    "id": "wobb-f162f263-1757-4553-a7f8-b3fb5caa2c5a",
+    "title": "Internship SALES @ MARKETING ADMIN SHAH ALAM / KLANG",
+    "company": "FEIKEN BEARING",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an internship focused on sales and marketing in Shah Alam/Klang. You might like this job because you'll gain hands-on experience in content creation, data management, and market research while working in a dynamic team!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-17781dca-25d9-4d07-922c-021cbe6add38",
+    "title": "Performance Marketing Executive",
+    "company": "Digital Symphony",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Performance Marketing Executive who designs and runs digital ad campaigns. You might like this job because you'll strategize fun marketing ideas, analyze data, and help clients grow their businesses in creative ways!",
+    "extractedSkills": [
+      {
+        "name": "Google Ads",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Ad Manager",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Tag Manager",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Media Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Lead Generation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Facebook Advertising",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Programmatic Media Buying",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "TikTok Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Analytics",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-a27a8fd2-031f-4069-a8ef-3b56d10c08ec",
+    "title": "Senior Manager, Human Resources",
+    "company": "SEGI VALUE HOLDINGS SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "This job is a Senior Manager in Human Resources. You might like this job because you’ll shape company policies, boost employee engagement, and lead talent acquisition, ensuring a great work environment while driving performance improvements!",
+    "extractedSkills": [
+      {
+        "name": "Recruitment Strategies",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Talent Acquisition",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Learning Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Organizational Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Human Resources Information System (HRIS)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-a85bb7bb-193a-4d7a-adfe-b336c1576ce3",
+    "title": "BATTERY SALESPERSON",
+    "company": "R&A LOGISTIC SOLUTION SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Battery Salesperson who sells automotive and industrial batteries. You might like this job because you’ll build strong customer relationships and earn a good salary plus commission while working in a growing market.",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Automotive Industry",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-98c16e21-cede-4e6e-9e12-c1da9bc96b07",
+    "title": "Cruise Entertainment Technician — Lighting / Sound / Video",
+    "company": "Agensi Pekerjaan Jobs Kreate",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Cruise Entertainment Technician, focusing on lighting, sound, or video. You might like this job because it lets you combine tech skills with travel, working on fun shows while ensuring everything runs smoothly on board!",
+    "extractedSkills": [
+      {
+        "name": "Audio-Visual Technology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Technical Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Lighting Systems",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sound Systems",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Hospitality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 10300,
+    "salaryMax": 10500
+  },
+  {
+    "id": "wobb-975df478-63f1-4092-a719-f3b6da172535",
+    "title": "OPERATIONS & AFTERSALES SERVICE EXECUTIVE",
+    "company": "R&A LOGISTIC SOLUTION SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is all about helping customers with their vehicle ownership experience. You might like this job because you’ll coordinate deliveries, assist with aftersales services, and ensure customers are happy and informed throughout the process!",
+    "extractedSkills": [
+      {
+        "name": "Automotive Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Support Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "After Sales Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-cf25ffa2-a410-4e9d-8494-1584a5985edf",
+    "title": "ACCOUNT ASSISTANT / ACCOUNT EXECUTIVE",
+    "company": "R&A LOGISTIC SOLUTION SDN BHD",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "This job is an Account Assistant/Executive where you’ll help with invoicing, payments, and financial reports. You might like this job because you'll get training, support, and a chance to grow your accounting skills right from the start!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Management Reporting",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-1abf4573-b9c0-4e6c-aba1-93a5696b2d9c",
+    "title": "Service Crew (TRX / Pavilion KL)",
+    "company": "Agensi Pekerjaan Jobs Kreate",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Service Crew member at a trendy café in Kuala Lumpur. You might like this job because you’ll interact with people, serve delicious food, and be part of a fun team in a lively atmosphere.",
+    "extractedSkills": [
+      {
+        "name": "Food And Beverage Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-11f86c1a-4a85-4a72-ad43-ce0eadb263a4",
+    "title": "Barista (TRX / Pavilion KL)",
+    "company": "Agensi Pekerjaan Jobs Kreate",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Barista at a premium café in Kuala Lumpur. You might like this job because you’ll work in a friendly environment, serve delicious coffee, and connect with customers while being part of a great team!",
+    "extractedSkills": [
+      {
+        "name": "Food And Beverage Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3002
+  },
+  {
+    "id": "wobb-52d56168-a47e-4578-8cc6-af00030227d9",
+    "title": "SENIOR ACCOUNT EXECUTIVE",
+    "company": "R&A LOGISTIC SOLUTION SDN BHD",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "This job is for a Senior Account Executive, focusing on managing finances, reports, and compliance. You might like this job because it offers the chance to play a crucial role in decision-making and work independently while ensuring financial accuracy.",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Management Reporting",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Bank Reconciliations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Payroll Tax",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Auditing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 4500,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-0879791b-c05d-4fe5-8839-175ca3c4f2c4",
+    "title": "Game Master",
+    "company": "Monkeys Canopy",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "This job is about being a Game Master, where you'll welcome guests and guide them through exciting gaming experiences. You might like this job because you get to interact with people, ensure they have fun, and help manage the action!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Multitasking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 1900,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-4fff300c-b6ad-4c60-a445-dce63686937d",
+    "title": "Retail Assistant (Johor Bahru)",
+    "company": "HEALTH LANE FAMILY PHARMACY SDN BHD",
+    "industry": "retail",
+    "city": "johor",
+    "seniority": "mid",
+    "rawDescription": "This job is about helping customers in a retail store in Johor Bahru. You might like this job because you get to interact with people, handle cash, keep the shop tidy, and learn more about product displays!",
+    "extractedSkills": [
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Multitasking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2000
+  },
+  {
+    "id": "wobb-d9e2a7ea-9870-46da-bc02-0ff57a46a64a",
+    "title": "Copywriter",
+    "company": "Yellow Leads",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "This job is for a Copywriter who creates engaging and clever content that tells a brand’s story. You might like this job because you’ll brainstorm ideas, write for different formats, and work with a creative team to influence audiences!",
+    "extractedSkills": [
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creativity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Conceptualization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c890733b-6a1f-4cd6-8384-adcba16c837d",
+    "title": "Internship for Marketing/ Business/ Mass Communication Students",
+    "company": "QL Corporate Services Sdn Bhd ",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is a Marketing Internship at QL Corporate Services, perfect for students eager to learn about marketing and e-commerce. You might like this job because you'll gain hands-on experience while earning RM1,000 a month for 4-6 months!",
+    "extractedSkills": [
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Market Trend",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mass Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Branding Campaigns",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "E-Commerce Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Market Research",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Performance Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-50d029be-9994-4c7f-ae8d-d88687db2125",
+    "title": "Internship Research, Design and Development",
+    "company": "Thriving Talents Sdn. Bhd.",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an exciting internship where you'll help create and enhance web and mobile apps for learning and sales. You might like this job because you’ll get to work with cool AI tools and collaborate with a creative team!",
+    "extractedSkills": [
+      {
+        "name": "Computer Science",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "JavaScript (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Python (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HyperText Markup Language (HTML)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Artificial Intelligence",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "UI/UX Research",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "UI/UX Strategy",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "UI/UX Writing",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Technical Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-14c8701d-d166-46e9-8462-095d9f408b2a",
+    "title": "Internship for Microbiology/Laboratory Students (Intake August 2026)",
+    "company": "QL Corporate Services Sdn Bhd ",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is a Lab Internship for Microbiology students starting in August 2026. You might like this job because you'll gain hands-on lab experience helping poultry farms and learning about sustainable farming practices.",
+    "extractedSkills": [
+      {
+        "name": "Laboratory Testing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Good Laboratory Practice (GLP)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Laboratory Equipment",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microbiology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Biology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Biotechnology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Science",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Environmental Science",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Poultry Science",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Serology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-4aa1d887-dc7c-4ff5-a01b-ebb2490be58e",
+    "title": "Internship Dental Lab Assistant (Production & 3D Printing)",
+    "company": "Powerista Technologies Sdn Bhd",
+    "industry": "healthcare",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for an Internship Dental Lab Assistant, where you'll help create dental appliances using 3D printing and CAD technology. You might like this job because it combines creativity with hands-on work and offers insights into dental technology!",
+    "extractedSkills": [
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Collaboration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Document Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Record Keeping",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quality Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Additive Manufacturing (3D Printing)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 500
+  },
+  {
+    "id": "wobb-6472e5cd-5e65-44e9-99ef-182eae3c0ee9",
+    "title": "Accounting Clerk/ ACCOUNT EXECUTIVES",
+    "company": "KMLAND DEVELOPMENT",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an exciting opportunity for an Accounting Assistant or Executive where you'll manage invoices, records, and payroll. You might like this job because fresh graduates are welcome, and training is provided to kickstart your career!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Invoice Review",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Operating Systems",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-6a95c271-9980-4012-b271-602cc68bb72b",
+    "title": "Production Supervisor (Precast Industry)",
+    "company": "Precast Concrete (Pontian) Sdn Bhd",
+    "industry": "manufacturing",
+    "city": "johor",
+    "seniority": "mid",
+    "rawDescription": "This job is a Production Supervisor in the precast concrete industry. You might like this job because you’ll lead a talented team, enhance your leadership skills, and directly impact Malaysia's infrastructure while ensuring quality and safety in production!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Outlook",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Word",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Construction",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Housing Policy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Concrete Pouring",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Concrete Forming",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Concrete Mixing And Batching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 3800
+  },
+  {
+    "id": "wobb-340906e7-abfe-40a7-a6fd-a2d204cb0c07",
+    "title": "Project Executive",
+    "company": "Goodnite Sdn Bhd",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Project Executive who helps the Sales Team with quotes and customer inquiries. You might like this job because you’ll create marketing materials and assist in generating important reports, making a key impact on sales success!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Word",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Malay Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-a0621d2f-a883-48bc-9ccb-46cd7c4c598a",
+    "title": "Egocentric Video Data Collection Specialist — Freshers Welcome",
+    "company": "Focus Data",
+    "industry": "technology",
+    "city": "remote",
+    "seniority": "mid",
+    "rawDescription": "This job is about recording everyday activities from your point of view to help train AI. You might like this job because it requires no technical skills, just your smartphone and daily tasks like cooking or organizing!",
+    "extractedSkills": [
+      {
+        "name": "Data Entry",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Collection",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-4e413f80-cd28-42bf-bb0e-ffdfcf93bb27",
+    "title": "Senior Financial Analyst ",
+    "company": "Hiredly X",
+    "industry": "other",
+    "city": "johor",
+    "seniority": "senior",
+    "rawDescription": "This job is a Senior Financial Analyst who helps create accurate financial plans and partners with teams to improve costs. You might like this job because it blends data analysis with innovative thinking to streamline finance processes.",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Budgeting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Forecasting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Forecasting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 8500
+  },
+  {
+    "id": "wobb-85a82e46-2a0b-4040-b9e8-998584174207",
+    "title": "Internship Interior Design Intern",
+    "company": "IQI Concept Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is a chance to dive into the world of interior design as an Intern! You might like this job because you'll work on real projects, learn from talented designers, and help create beautiful spaces while honing your skills.",
+    "extractedSkills": [
+      {
+        "name": "Interior Design",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-1459d707-cf99-42ee-832a-d6f6eb2e42a6",
+    "title": "Junior Data Engineer",
+    "company": "STRATEQ",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Junior Data Engineer who helps keep our databases running smoothly. You might like this job because you’ll work with development teams, monitor system health, and solve data issues, all while learning new skills!",
+    "extractedSkills": [
+      {
+        "name": "Relational Database Management Systems",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Database Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Oracle Databases",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "MariaDB",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Application Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-fa5c4a64-45ab-4562-a235-dc4fca5576ea",
+    "title": "Junior Barista (See Cafe) | Arcoris, Mont Kiara",
+    "company": "Signature Market",
+    "industry": "retail",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "This job is for a Junior Barista at See Cafe in Arcoris, Mont Kiara. You might like this job because you’ll get to create seasonal drinks, keep the cafe clean, and make customers smile every day!",
+    "extractedSkills": [
+      {
+        "name": "Coffee Making",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Experience",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Beverage Products",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Safety And Sanitation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food And Beverage Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-0bfe45f2-61e8-4d19-88c5-1714cbecfdd5",
+    "title": "Manager Retail Outlet (Mandarin Speaker) | Johor",
+    "company": "Signature Market",
+    "industry": "retail",
+    "city": "johor",
+    "seniority": "lead",
+    "rawDescription": "This job is for a Retail Outlet Manager in Johor, where you'll lead a team to create a welcoming shopping experience. You might like this job because you enjoy building relationships, driving sales, and ensuring customers leave happy!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Operations",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c6306112-cdec-496e-bbd3-ef685f1021d9",
+    "title": "Finance Manager (Audit)",
+    "company": "Hiredly X",
+    "industry": "finance",
+    "city": "johor",
+    "seniority": "lead",
+    "rawDescription": "This job is a Finance Manager focused on audits. You might like this job because you lead a team, shape finance policies, and ensure smooth operations while dealing with auditors. It’s perfect for organized leaders who thrive on collaboration!",
+    "extractedSkills": [
+      {
+        "name": "Finance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Corporate Finance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 10000,
+    "salaryMax": 17500
+  },
+  {
+    "id": "wobb-d6ed30f5-98cf-43ef-918d-ee01baa049cb",
+    "title": "Office Administrator/Administrative Assistant",
+    "company": "WELLESTA TRUELIFE SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is all about keeping things running smoothly in the office! You might like this job because you’ll help organize files, assist with reports, and support your team while managing phone calls and emails.",
+    "extractedSkills": [
+      {
+        "name": "Administrative Functions",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 2983
+  },
+  {
+    "id": "wobb-85605002-26d2-41b4-b711-d539cc12cc45",
+    "title": "Staff Accountant",
+    "company": "KMLAND DEVELOPMENT",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Staff Accountant in Kuala Selangor, offering RM2,500 – RM4,000 monthly. You might like this job because fresh grads are welcome, and training is provided. Enjoy a balanced work week with weekends off!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Invoice Review",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3999
+  },
+  {
+    "id": "wobb-95fa39e3-3431-4a3a-ab2b-0349faf384fb",
+    "title": "Manager Retail Outlet (Mandarin Speaker) | Setia City Mall",
+    "company": "Signature Market",
+    "industry": "retail",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "This job is for a Retail Outlet Manager who speaks Mandarin at Setia City Mall. You might like this job because you’ll create a welcoming shopping experience, lead a team, and ensure products are fresh while boosting sales and customer service!",
+    "extractedSkills": [
+      {
+        "name": "Retail Operations",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Experience",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-00ca025f-a1b8-476f-84c4-9f3b225644f4",
+    "title": "A4 Chargeman",
+    "company": "STRATEQ",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is about managing and maintaining 11kV electrical systems in a data center. You might like this job because you’ll ensure everything runs smoothly, troubleshoot issues, and work with teams to make upgrades—all while keeping safety a priority!",
+    "extractedSkills": [
+      {
+        "name": "DC Power Systems",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HVAC",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Center Operations",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Infrastructure",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-979aa739-7951-46b2-aecd-637a5db9c190",
+    "title": "Executive, QA/QC  | Balakong",
+    "company": "Signature Market",
+    "industry": "manufacturing",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is about overseeing quality and safety in food production. You might like this job because you’ll ensure products meet high standards and work with different teams to keep everything safe and on track!",
+    "extractedSkills": [
+      {
+        "name": "Hazard Analysis And Critical Control Points (HACCP)",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Science",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "GMP Self Inspection",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quality Assurance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quality Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Quality Assurance And Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Safety Management Systems",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-19",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 2900
+  },
+  {
+    "id": "wobb-f5b94988-0987-4f76-af9d-078f58638ac9",
+    "title": "Quote Analyst",
+    "company": "BD Agriculture (M) Sdn Bhd",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Quote Analyst who creates and tracks product quotes for customers. You might like this job because you enjoy problem-solving and collaborating with teams to meet customers' needs while ensuring accurate pricing and delivery details.",
+    "extractedSkills": [
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-05-20",
+    "source": "wobb"
   }
 ]
