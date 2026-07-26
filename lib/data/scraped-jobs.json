@@ -128138,5 +128138,855 @@
     "source": "wobb",
     "salaryMin": 1500,
     "salaryMax": 1800
+  },
+  {
+    "id": "wobb-37d3f877-4266-4d1a-b608-bec5983f4e88",
+    "title": "Business Development Executive",
+    "company": "BAIWEI MINIBOWL",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "senior",
+    "rawDescription": "• Scout and secure new store sites, recruit investors, negotiate leases and drive openings from fit-out to launch.\n• Join a brand expanding new branches from Bukit Jalil, shaping site choice, market analysis and partnerships.\n• Own expansion!",
+    "extractedSkills": [
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-26",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-f131eb92-f1eb-4892-8e1f-0c13f38484f9",
+    "title": "Barista",
+    "company": "Oriental Surplus Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is being a Barista at ORIENTAL SIGNATURE in Kuala Lumpur, where you craft coffee and tea, share health benefits, and create amazing customer experiences. You might like this job because it combines creativity with great people skills!",
+    "extractedSkills": [
+      {
+        "name": "Food And Beverage Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Coffee Making",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Herbal Medicine",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-25",
+    "source": "wobb",
+    "salaryMin": 2100,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-93fe85db-407d-467e-94e6-cc6eea24483a",
+    "title": "Business Lead & Process Engineer",
+    "company": "APEQ Process Sdn Bhd",
+    "industry": "engineering",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is all about driving business success by connecting with customers and understanding their needs. You might like this job because it combines technology with teamwork, making a real impact through innovative solutions and ongoing support.",
+    "extractedSkills": [
+      {
+        "name": "Verbal Communication Skills",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Engagement",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-02-11",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-029cb495-e2e9-4318-a783-c8ec61a3ff3f",
+    "title": "sales consultant",
+    "company": "Swarovski Global Business",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Deliver standout service: tell stories, build trust, close sales with digital tools.\n• Iconic crystal brand shaping pop luxury and design worldwide.\n• Move into leadership or specialist roles with training and career growth!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-45314b24-0bf8-4c0f-9288-04e913a7c04a",
+    "title": "Junior Global Master Data Specialist",
+    "company": "Swarovski Global Business",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage master data: create/maintain Finance, Supplier, Customer & Material records; run reports, process requests, support testing.\n• Iconic global crystal brand with inventive, diverse teams and sustainability focus.\n• Learn fast via career programs!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-b566ddd2-735d-4a80-a3b3-ebab82602e2b",
+    "title": "SAP Full-Stack Developer (ABAP/BTP/AI)",
+    "company": "Swarovski Global Business",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Design and develop SAP solutions with ABAP, CDS, SAP BTP and Fiori/UI5.  \n• Join an iconic global brand celebrated for craftsmanship, sustainability and an inventive, inclusive culture.  \n• Prototype and deploy AI-driven SAP features and accelerate your growth with learning programs!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c7b1aa40-cb89-40f2-80a5-364f335c9580",
+    "title": "SAP Platform Engineer & AI Developer",
+    "company": "Swarovski Global Business",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Build SAP extensions (ABAP, RAP, CDS, BTP, Fiori) and embed AI into processes.\n• Join an iconic global brand famed for craftsmanship, sustainability and diversity.\n• Accelerate SAP+AI skills with learning programs, hybrid work and global impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-468b16eb-6247-4b00-b644-2346cc09aff7",
+    "title": "Environmental Health and Safety Intern",
+    "company": "Seagate Global Business Services  (Malaysia) Sdn. Bhd.",
+    "industry": "healthcare",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Inspect sites, verify compliance, assess risks and collect EHS data.\n• Join a global EHS team with expert mentors and hands-on, collaborative learning.\n• Get ISO exposure, real inspections and project experience to kickstart your EHS career!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c37f89be-45b5-4052-a235-3d21b3bb9e7c",
+    "title": "Purchasing/Freight Technician",
+    "company": "Air Products Shared Services Sdn. Bhd.",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Turn requisitions into POs, chase confirmations, amend orders and clear invoice/GRIR issues.\n• Join a global industrial-gases innovator with decades of real-world impact.\n• Approve purchases, drive automation and gain broad procurement exposure!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-b3be710c-d904-466a-b985-66a615516e97",
+    "title": "Assistant Spa Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Oversee daily spa operations: staff, scheduling, service quality, inventory and guest issues.\n• Join a property team focused on guest satisfaction, continuous improvement, training and recognition.\n• Back up the Spa Director, manage budgets and develop staff!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-54994e5a-0cf2-449e-a975-f7cb267ded31",
+    "title": "Assistant Sales Manager (Reactive)",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Drive reactive sales: solicit leads, join calls, prepare proposals and ensure event turnover.\n• Work in a guest-focused culture that values service excellence.\n• Exposure to trade shows, FAM trips, client calls; hit revenue targets; grow in sales!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-dc3b0570-5b2b-45d0-b9a8-30558d153248",
+    "title": "Assistant Sales Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Prospect and close business: join calls, draft proposals, and ensure event handoff.\n• Join a service-first hotel team focused on guest excellence and client relationships.\n• Hit personal sales targets and close revenue-driving accounts!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2b5fdbb1-074e-402c-9659-4bd81e2fff55",
+    "title": "Assistant Sales Center Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Drive sales daily: prospect, join calls, draft proposals and contracts.\n• Join a service-driven hospitality team focused on customer loyalty and community.\n• Hit personal sales targets, close deals and directly influence location revenue!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-cbaca3e2-06f5-4e36-93f9-b405376ad31c",
+    "title": "Assistant Reservation Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Drive reservations: solicit, close, up-sell and coach agents to meet personal and team revenue targets.\n• Join a brand that prioritizes service excellence and customer loyalty.\n• Lead training, negotiate contracts and directly drive revenue and guest satisfaction!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ac542d9d-9b87-4aae-855b-b9f2ee2bb329",
+    "title": "Assistant Outlet Manager - Sichuan",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run outlet ops: open/close, inspect staff/storage, stock, monitor dining & safety.\n• Uphold Marriott International service standards; champion fair-treatment.\n• Grow as a leader - hire, train, coach and shape guest experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c9a76960-6680-4a46-a288-37c42b0d8691",
+    "title": "Assistant Learning & Development Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Deliver and assess training: coach staff, run classes, observe service, track learning transfer.\n• Join a guest-first team that lives brand values.\n• Shape training, measure ROI and lift guest satisfaction!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-7cb16495-d006-4f03-b9dc-92f50ea0cd0c",
+    "title": "Assistant Hygiene Manager - Sheraton Kota Kinabalu",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Verify daily food hygiene via audits, inspections, corrections and training.\n• Enforce Marriott BSA standards; liaise with culinary, purchasing and health.\n• Own property food safety - lead audits, training and regulatory liaison!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-1d0592e1-db87-4c6a-bb0f-67f94a6aaa00",
+    "title": "Assistant Financial Controller",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage daily hotel accounting: P&L, reports, reconciliations, budgets, forecasts, audits.\n• Join a hotel cluster focused on guest satisfaction, market share and ops finance.\n• Advise Cluster Execs, shape budgets/forecasts and lead high-caliber team!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-fe8ee686-eb52-4d3b-9dd6-347fcc928e35",
+    "title": "Assistant F&B Venue Sales Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead daily kitchen, restaurant, bar & room-service ops to delight guests and hit targets.\n• Work in a brand service culture focused on guests and team growth.\n• Own F&B strategy, coach staff, manage budgets and drive measurable impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-e018311b-3d91-4f72-9451-8a27aeb0f509",
+    "title": "Assistant Director of Sales (MICE)",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Drive group & catering sales: prospect, pitch, book and close.  \n• Partner with Event Booking Center, Market Sales and GSO; uphold brand standards.  \n• Own sales execution, lead client events and trade shows; directly boost property revenue!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2d3218a1-d166-49cd-bf1f-5488b4c3ae16",
+    "title": "Accounts Receivable - Fairfield by Marriott Kota Kinabalu",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Reconcile invoices, post entries, chase past-due accounts and close periods.\n• New 12-storey, 281-room hotel on Sutera Avenue near the airport, malls and convention centre.\n• High-visibility role shaping AR processes with cross-department exposure!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-533d4331-df8c-4cb9-a413-384b805f5fdc",
+    "title": "Accounts Payable - Fairfield by Marriott Kota Kinabalu",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Check invoices, postings, cash; reconcile AP and petty cash; support period closes and audits.\n• New 12-storey 281-room hotel on Sutera Ave, 15-min from airport & malls.\n• Get hands-on finance exposure with audits, bank liaison and full AP!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-3a6ffec8-d7d6-4b15-80f9-f6af1913f8d6",
+    "title": "SPE-ENG",
+    "company": "Cognizant Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Test server-to-endpoint links, run daily checks, monitor alerts and escalate issues.\n• Partner with App Support and Management to keep the client platform healthy in Malaysia.\n• Own triage for priority tickets with customer & management exposure!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-6a2428b0-8533-4ff7-a221-e3fca4828d06",
+    "title": "Process Executive - Claims Operations (Cantonese Speaker)",
+    "company": "Cognizant Malaysia",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Assess claims: verify ICD-9/10 & CPT codes, process payments, issue letters, escalate cases.\n• Join Cognizant Malaysia's claims team; follow company guidelines.\n• Hone medical coding and end-to-end claims processing skills!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-e98bad5d-a832-41f8-8c3a-32fdc6156552",
+    "title": "Process Executive - Customer Service (Cantonese Speaker)",
+    "company": "Cognizant Malaysia",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Handle member enquiries by phone and live chat; resolve, recommend and escalate.  \n• Join Cognizant Malaysia's member-focused team.  \n• Drive impact on member satisfaction and sharpen frontline customer-service skills!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ad98bb4e-87e7-40d9-9d25-09edc10abf8b",
+    "title": "Observability Software Engineer",
+    "company": "Swift Support Services Malaysia",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Own log onboarding, parsers, pipelines, automation and Kibana dashboards.\n• Work at a global leader serving 12,000+ banks across 200+ countries.\n• Own observability at global scale, shape platform, CI/CD and alerting that matter!",
+    "extractedSkills": [],
+    "postedAt": "2026-07-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-d8c03856-ffb7-4f61-a9ab-90ad1aee9b94",
+    "title": "Trainee Supervisor",
+    "company": "Brew & Bread ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "lead",
+    "rawDescription": "• Smile, chat with guests, learn and perform barista tasks in a busy team.\n• Be part of a passionate coffee and hospitality team that values warmth and teamwork.\n• No experience needed, full training provided to build barista skills and grow fast!",
+    "extractedSkills": [
+      {
+        "name": "Coffee Making",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Hospitality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Honesty",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-e8ce2a57-1ab2-4e60-8788-7ae4d88cefec",
+    "title": "Senior Barista",
+    "company": "Brew & Bread ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Brew, serve and chat with customers in busy team shifts.\n• Join a crew passionate about coffee and hospitality.\n• No experience required, full training to grow into a skilled barista!",
+    "extractedSkills": [
+      {
+        "name": "Hospitality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Coffee Making",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Honesty",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-6b671c27-2f72-4b7f-9484-db89e9d51efd",
+    "title": "Junior Barista",
+    "company": "Brew & Bread ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Greet customers, chat warmly, and support the team while learning barista skills.\n• Work in a welcoming café that puts coffee and hospitality first.\n• No prior experience required; comprehensive training helps you grow barista skills!",
+    "extractedSkills": [
+      {
+        "name": "Hospitality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Coffee Making",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Honesty",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 2300
+  },
+  {
+    "id": "wobb-f76df6ef-af93-4cf4-ba4f-93731313c27b",
+    "title": "Internship Event Management",
+    "company": "GogoKids Technologies Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Event Management Internship at GogoKids, Malaysia's largest kids learning platform. You might like this job because you’ll help plan fun events for schools and kids, learning hands-on about logistics and teamwork!",
+    "extractedSkills": [
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Events",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-06-17",
+    "source": "wobb",
+    "salaryMin": 700,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-c8b6eb8d-1e91-46ab-8a09-38ee4625a50c",
+    "title": "Account Cum Admin Executive in Kota Samarahan, Kuching",
+    "company": "Drive Fit Sdn Bhd",
+    "industry": "technology",
+    "city": "other",
+    "seniority": "junior",
+    "rawDescription": "• Manage accounting, payroll and admin tasks; support daily finance operations.\n• Join a collaborative cross-department team in Kota Samarahan.\n• Secure a stable, permanent role with real responsibility and cross-department visibility!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Payroll Systems",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Company Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-dcb24e79-e798-463e-b63d-c9e62e191402",
+    "title": "Sales Admin",
+    "company": "PASAR BORONG SENAWANG SDN. BHD.",
+    "industry": "technology",
+    "city": "other",
+    "seniority": "junior",
+    "rawDescription": "• Run orders, billing and inventory to keep vendors & buyers stocked.\n• Community-focused wholesale market serving local retailers and businesses.\n• Accelerate sales-ops, invoicing and AR skills; build B2B relationships and career momentum!",
+    "extractedSkills": [
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Order Entry",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Order Processing",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Invoicing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cash Flow Statements",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business-To-Business (B2B) Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Billing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 1800,
+    "salaryMax": 2800
+  },
+  {
+    "id": "wobb-c0502695-1718-4fd1-b1f9-cebcf8af7b3a",
+    "title": "Medical Sales Executive / Product Specialist (KL/Selangor)",
+    "company": "GMS HR Co.",
+    "industry": "healthcare",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run demos, advise clinicians, and grow a reliable sales pipeline in KL/Selangor.\n• Join a close-knit trading team with 13+ years supplying medical devices and consumables across Malaysia.\n• Become a trusted product expert, deepen clinical networks and fast-track senior roles!",
+    "extractedSkills": [
+      {
+        "name": "Negotiation",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Knowledge",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 3200,
+    "salaryMax": 4100
+  },
+  {
+    "id": "wobb-2eebb42a-ece0-40b5-9bb4-552c31f9cc99",
+    "title": "Cashier ",
+    "company": "PASAR BORONG SENAWANG SDN. BHD.",
+    "industry": "other",
+    "city": "other",
+    "seniority": "junior",
+    "rawDescription": "• Process cash, QR & card payments, issue receipts, manage the till and serve customers.\n• Join a customer-focused team; keep the counter clean and efficient.\n• Build cash-handling and customer-service skills; make daily impact!",
+    "extractedSkills": [
+      {
+        "name": "Cashiering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2400
+  },
+  {
+    "id": "wobb-ef44c1b6-7b59-4adf-9724-3ea8c9938a9d",
+    "title": "Sr. Operations Analyst",
+    "company": "OSTTRA",
+    "industry": "finance",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Deliver 1st-line ops & tech support: monitor, triage and fix client platform incidents with global teams.\n• Power OTC post-trade platforms for global clients in a fast-changing suite.\n• Fast growth, global client exposure and visible impact!",
+    "extractedSkills": [
+      {
+        "name": "Investment Banking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Bank Reconciliations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-86ae6885-7b1c-4fe3-8fcb-a346198dd512",
+    "title": "Sr. Operations Analyst (Korean Speaking)",
+    "company": "OSTTRA",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Provide 1st-line tech & ops support to clients on OTC post-trade systems; resolve incidents.\n• Join an innovative team powering OTC services across APAC.\n• Rapid growth: tackle new challenges, broaden scope and deliver top-tier client service!",
+    "extractedSkills": [
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-03cd5699-0d60-475f-a9b5-fe134abfe2d2",
+    "title": "Sr. Operations Analyst (Japanese Speaking)",
+    "company": "OSTTRA",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Provide first-line ops & tech support to global clients; investigate & resolve platform issues.  \n• Join an innovative team powering industry-leading OTC post-trade platforms.  \n• Fast growth: expand skills, take on new challenges and impact markets!",
+    "extractedSkills": [
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-25",
+    "source": "wobb"
   }
 ]
