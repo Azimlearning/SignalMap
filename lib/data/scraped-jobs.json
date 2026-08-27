@@ -216564,5 +216564,4573 @@
     "source": "wobb",
     "salaryMin": 3000,
     "salaryMax": 4500
+  },
+  {
+    "id": "wobb-70a44068-5e83-44a2-8bb6-9cc5862cfd31",
+    "title": "Sales Consultant (Account Management)",
+    "company": "Hiredly",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Own and grow existing client accounts: drive renewals, retention and upsells.\n• Direct access to the CEO and experienced sales leaders in a high-performance culture.\n• Basic salary plus monthly commission, uncapped earnings and no limit to your upside!",
+    "extractedSkills": [
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inside Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Upselling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Pipeline Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Negotiation",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-11dd2303-ef27-46cf-995c-6e520c07ade3",
+    "title": "Internship Central Distribution Intern",
+    "company": "GuestReady",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Onboard, audit & update listings on Airbnb, Booking & VRBO; run bulk changes, restore visibility.\n• Work in a tech-led short-term rental team across five countries.\n• Gain cross-team experience in a fast-growing multicultural team with hybrid work!",
+    "extractedSkills": [
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Critical Thinking",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Hospitality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-84f970ce-da1e-4374-aac7-043d0f020bed",
+    "title": "Sales Executive",
+    "company": "Degree Distribution SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Hunt and close B2B deals across Klang Valley: site visits, proposals, demos.  \n• Sell ELV/security systems (CCTV, access control, barrier gates, networking).  \n• High commission, bonuses, petrol/toll & vehicle support; direct income growth!",
+    "extractedSkills": [
+      {
+        "name": "Outside Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cold Calling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Greeting Customers",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Motivation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Discipline",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-dcd49f0d-98e2-4a11-94ff-84b4c0df8a25",
+    "title": "Internship Videographer/Editor",
+    "company": "Monkey Creators Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Shoot and edit short-form & event videos: set up gear, capture on-set moments and craft snappy reels.\n• Work on TVCs, commercials and corporate shoots for real brands.\n• Rapid hands-on production growth toward Videographer/DoP!",
+    "extractedSkills": [
+      {
+        "name": "Videography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 700,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-69b2219e-a94b-4393-9d85-8e98d344b8e4",
+    "title": "Internship Digital Marketing Intern",
+    "company": "Cub Media Studio Sdn Bhd",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Run Meta/Google/TikTok campaigns: setup, ad copy, short-video scripts, monitor & analyse results.\n• Work on client campaigns end-to-end, including landing-page and customer-journey improvements.\n• Use AI for ideation, copy & analytics, hands-on!",
+    "extractedSkills": [
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Ads",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Facebook Advertising",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "TikTok Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Advertising Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-6c89abf1-1418-4fab-b94c-e687cf590e5a",
+    "title": "Internship Tour Operator",
+    "company": "BEST EXPERIENCE TOURS SDN BHD ",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare tour quotes, itineraries and travel docs; coordinate arrangements and admin tasks.\n• Join a tour team liaising with suppliers, ground agents and other operators.\n• Gain hands-on exposure to live tour ops and project work!",
+    "extractedSkills": [
+      {
+        "name": "Google Workspace",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Malay Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 2000
+  },
+  {
+    "id": "wobb-e75bbc13-0aa6-40e2-bd61-b6a3ff3fbec4",
+    "title": "Cafe Chef",
+    "company": "Runningmen Catering",
+    "industry": "manufacturing",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Cook and prep menu items to recipes; maintain timing, stock and hygiene.\n• Join a family-focused cafe and catering team.\n• Shape menus, lead catering/events and make visible impact on customers!",
+    "extractedSkills": [
+      {
+        "name": "Cooking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Safety And Sanitation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Plating And Presentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Quality Assurance And Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-26f59298-38c2-4d88-9775-58d3521e5245",
+    "title": "HUMAN RESOURCES OFFICER CUM ADMIN ",
+    "company": "GLAMHALL DAMANSARA",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Recruit, roster & onboard crews; run attendance, payroll, OT and manpower planning.\n• Fast-moving events team running weddings, launches and galas; own venues and crews.\n• Lead HR systems & SOPs, shape people strategy and impact live events!",
+    "extractedSkills": [
+      {
+        "name": "Human Resource Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Human Resource Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-c2658424-c7b2-4400-a50f-d130c8082da4",
+    "title": "CLINIC ASISTANT ",
+    "company": "Star Shine Child Specialist Clinic",
+    "industry": "technology",
+    "city": "penang",
+    "seniority": "mid",
+    "rawDescription": "• Manage registration & appointments; assist doctor with consults, procedures and meds; handle billing, stock, education and cleanliness.\n• Join a child specialist clinic.\n• Gain hands-on clinical exposure supporting doctors and child patients!",
+    "extractedSkills": [
+      {
+        "name": "Canva (Software)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Printing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Nursing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-fc3d744a-9c9a-4cc0-a5f8-6ac83ba7a2f7",
+    "title": "Pharmacy Assistant ( Penang )",
+    "company": "HEALTH LANE FAMILY PHARMACY SDN BHD",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "mid",
+    "rawDescription": "• Assist pharmacist daily: serve customers, take payments, restock and keep the outlet tidy.\n• Work in a customer-focused retail pharmacy outlet.\n• Grow your skills with hands-on dispensing, customer and merchandising exposure!",
+    "extractedSkills": [
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2000
+  },
+  {
+    "id": "wobb-e3368160-a124-40a9-8f42-3603abca154d",
+    "title": "Internship Marketing",
+    "company": "Corvan",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Produce trend-driven short-form videos and captions; shoot, edit, schedule and analyze performance across major platforms.\n• Collaborate with marketing and e-commerce teams to strengthen brand and campaigns.\n• Own end-to-end AI video, real impact!",
+    "extractedSkills": [
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-f760b0a2-ccd7-4718-ab7f-19778fc90bf2",
+    "title": "Sales Assistant",
+    "company": "EKG Group",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Support campaign sales, set up processes, run client meetings, grow brand relationships.\n• Help brands tell clear stories and reach real customers.\n• Build hands-on sales skills, expand your network, and move toward management!",
+    "extractedSkills": [
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Presentation Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communicative Approaches",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-2b3d0984-370b-467f-90c2-b8004e3679c3",
+    "title": "Marketing Content Creator",
+    "company": "SAMBAL BAKAR MALAYA ",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Film, edit and publish short videos for TikTok & Instagram; write captions & hooks\n• Join a hands-on team creating trend-driven campaigns and viral social content\n• 3-month contract, RM2,500-RM2,800/month - own concept-to-post videos!",
+    "extractedSkills": [
+      {
+        "name": "Creativity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Confidentiality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 2800
+  },
+  {
+    "id": "wobb-64844641-fb15-47d7-9302-cd26aacd3c84",
+    "title": "Internship Civil Engineering Intern",
+    "company": "Precast Concrete (Pontian) Sdn Bhd",
+    "industry": "healthcare",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "• Assist production & QA/QC with BOMs, material analysis, production scheduling, testing, inspections and safety docs.\n• Hands-on precast concrete manufacturing and quality control.\n• Gain exposure to quantity surveying, production, QA/QC and HSE!",
+    "extractedSkills": [
+      {
+        "name": "Precast Concrete Production",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quantity Surveying",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Bill of Materials (BOM) Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Material Consumption Analysis",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Reinforcement Detailing",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Production Scheduling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Material Testing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inspection & Quality Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Construction Documentation (ISO, EN206, SCI, NCR, MOS)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Health, Safety & Environment (HSE)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 700,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-bc0d95f3-8045-4b54-b560-2b371974af3b",
+    "title": "Production Supervisor",
+    "company": "Precast Concrete (Pontian) Sdn Bhd",
+    "industry": "education",
+    "city": "johor",
+    "seniority": "mid",
+    "rawDescription": "• Lead precast moulds: supervise teams & subs, meet daily targets, inspect & log outputs.\n• Precast concrete maker, factory and project-site work.\n• Own QC rollout, drive production results and lead with real impact!",
+    "extractedSkills": [
+      {
+        "name": "Quality Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Precast Concrete Production",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mould Inspection",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Pre-pour Inspection",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Production Supervision",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Materials Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Training & Coaching",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-0065a120-14c2-4a12-aa50-55c3c012a73f",
+    "title": "Internship Multimedia Intern",
+    "company": "EKG Group",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Create short-form videos, visuals and social assets from concept to publish.\n• Help bring brand stories to life across social and video for Malaysian audiences.\n• Fast-track your portfolio and production skills, working on real client briefs!",
+    "extractedSkills": [
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Videography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe After Effects",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Storyboarding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Motion Graphics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-f8bbd041-68e7-4b64-b137-c583e091a494",
+    "title": "Internship Sales Executive",
+    "company": "Degree Distribution SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Prospect and meet property decision-makers in Klang Valley; pitch ELV/security/ICT and close B2B deals.\n• 20+ years serving condos, hotels & commercial sites across Klang Valley.\n• RM1k-2k/mo + bonus, sales training and a clear path to full-time!",
+    "extractedSkills": [
+      {
+        "name": "Social Networks",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 2000
+  },
+  {
+    "id": "wobb-862ad8f5-09bb-4581-99ce-c0e16b47c842",
+    "title": "Intern, Social Content & Marketing",
+    "company": "ZUS COFFEE",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Create Reels, TikToks, photos and captions; manage the content calendar.\n• Amplify ZUS Coffee's voice on Instagram, TikTok and in-store activations.\n• Own campaigns, creator collabs and content production, with measurable performance impact!",
+    "extractedSkills": [
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-83fff905-4f1d-4bf1-90c0-8544439c5f1e",
+    "title": "Operations Executive",
+    "company": "WeTrade",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Own daily ops: streamline processes, keep SOPs, ensure compliance, resolve CRM/trading issues.\n• Work in a CRM-driven trading platform; liaise with IT and third-party vendors.\n• Lead CRM upgrades, run cross-team projects, train staff, deliver impact!",
+    "extractedSkills": [
+      {
+        "name": "Regulatory Compliance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Multitasking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Multilingualism",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-87b146cd-8bb1-4e8c-a6b4-e8ec91c777fe",
+    "title": "Intern, Academy Content",
+    "company": "ZUS COFFEE",
+    "industry": "education",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Create and update learning assets: slides, workbooks, assessments and e-learning.\n• Work with SMEs and cross-functional teams on Academy projects; maintain the content repo.\n• Build e-learning skills, run user tests and shape training!",
+    "extractedSkills": [
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Academic Advising",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-d4552e70-4ff9-4fd0-919f-44939b1a913b",
+    "title": "Sales Executive",
+    "company": "Degree Distribution SDN BHD",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Sell CCTV, access control & ELV: prospect, pitch, propose and close across condos, hotels and towers.\n• Represent trusted ELV brands to secure Malaysian buildings.\n• Grow fast, close developer, hotel and corporate projects and move toward senior sales!",
+    "extractedSkills": [
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Prospect Research",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Negotiation Strategies",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Motivation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management (CRM) Software",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Networks",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-76e15af2-3b82-4793-b908-f6e73759d67d",
+    "title": "Production Engineer (Mechanical)",
+    "company": "LB ALUMINIUM BERHAD",
+    "industry": "engineering",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Oversee preventive & breakdown maintenance to keep machines running at peak efficiency.\n• Join an ISO 9001-driven plant with strong quality, safety and continuous improvement focus.\n• Lead layout, equipment mods and CI projects to boost yield and cut costs!",
+    "extractedSkills": [
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Verbal Communication Skills",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-f573aa55-6704-4aaf-b789-218d03e0cb8c",
+    "title": "Sales Executive (Online & Promotion Coordination)",
+    "company": "Sunlight Pharmacy (KK) Sdn Bhd",
+    "industry": "other",
+    "city": "other",
+    "seniority": "senior",
+    "rawDescription": "• Drive online sales across e-commerce platforms; coordinate promotions across suppliers, marketing, outlets.\n• Join a pharmacy growing digital and in-store channels.\n• Own end-to-end campaign rollouts and lift measurable sales impact!",
+    "extractedSkills": [
+      {
+        "name": "E-commerce Platforms",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Listing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Pricing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Promotional Campaigns",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Performance Analysis",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Coordination",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Coordination",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3500
+  },
+  {
+    "id": "wobb-dc9d7a35-0d2b-4720-b8fe-28d86f9c0014",
+    "title": "Video Editor cum Videographer",
+    "company": "Our Stories Lab",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is for a Video Editor cum Videographer at Our Stories Lab. You might like this job because you’ll get to be creative, film engaging content, and experiment with fresh styles. If you love storytelling and teamwork, this is for you!",
+    "extractedSkills": [
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Photography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Videography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-13",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c78ac226-0e84-4678-8ded-80e2488503d5",
+    "title": "Front-End Engineer\t",
+    "company": "Segnel Creative",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Build and run mobile-game front ends: implement UI/UX and HTML/CSS with dev+user focus.  \n• Join a team shipping consumer mobile games.  \n• Own live-ops and updates; shape stability and UX on iOS/Android!",
+    "extractedSkills": [
+      {
+        "name": "Software Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Software Engineering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HTML5",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cascading Style Sheets (CSS)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "JavaScript (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "UI/UX Design Systems",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Git (Version Control System)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "WordPress",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-48fc363a-1b1b-4c0c-8c8c-33dcf08f2984",
+    "title": "Executive, Marketing (Social Media) | KL Eco City ",
+    "company": "Signature Market",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run social: plan calendar, write scripts/captions, shoot+edit short videos, run ads, engage and report\n• Work with designers, retail and cross-department marketing in KL Eco City\n• Own campaigns that drive leads & sales, support launches!",
+    "extractedSkills": [
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creativity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Trends",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-a1242dcd-31e6-4285-a3d1-9b588ace5f0e",
+    "title": "Purchasing Executive",
+    "company": "Stonehenge Surfaces Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Run purchasing: negotiate with suppliers, handle claims, inventory, AP and costing.\n• Operate import/export logistics: shipping rates, customs, insurance and overseas clients.\n• Own negotiations and export arrangements, gain major supply-chain exposure!",
+    "extractedSkills": [
+      {
+        "name": "Product Sourcing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Negotiation",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Supply Chain Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 5500
+  },
+  {
+    "id": "wobb-9f9bcaa7-8f67-48d1-9e9a-2354d262bf22",
+    "title": "Account Executive",
+    "company": "Hiredly X",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "• Run full-set project accounting: GL, AR/AP, billings, bank recons.\n• Work on construction and property development projects, project-centric finance.\n• Own billings, cashflow forecasts, variance analysis and audit coordination!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Construction",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Reconciliation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Balancing (Ledger/Billing)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-6bfd9e25-3d90-4601-9634-bb8a39668fe2",
+    "title": "Account Executive",
+    "company": "Hiredly X",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "• Run project accounts: GL, AR/AP, billings, retentions and subcontractor claims.\n• Support construction & property projects with reconciliations, cash flow and variance checks.\n• Lead project accounting, own statutory compliance and audit liaison!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Construction",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting Software",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Reconciliation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Balancing (Ledger/Billing)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-6eb8b7e4-c3f0-4e4b-8885-9e25f6c0349f",
+    "title": "Junior Operations Executive",
+    "company": "Lunix Group",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Coordinate materials, manpower, bookings and client liaison for programs & events.\n• Join a cross-team Ops environment: work with appointments, product and consultation teams.\n• Own impact on revenue and program quality alongside Head of Operations!",
+    "extractedSkills": [
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Starter",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3300
+  },
+  {
+    "id": "wobb-5fceb136-9af7-47e1-b756-27b89fadad33",
+    "title": "Internship Software Developer",
+    "company": "CloudExpo Sdn Bhd",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship Software Developer where you'll work on real web projects and learn quickly. You might like this job because it offers hands-on experience with coding, APIs, and web design in a supportive environment.",
+    "extractedSkills": [
+      {
+        "name": "JavaScript (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cascading Style Sheets (CSS)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HTML5",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-0353a0cb-c2a7-4ead-a89c-5c97900ef8d3",
+    "title": "Internship Sales & Account Management Assistant Intern",
+    "company": "Trinitium",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Own admin: calendars, agendas, minutes, reports, decks, onboarding.\n• Collaborate with billing, legal and product on client setups.\n• 6-month placement supporting the Senior Account Manager, hands-on client exposure, CRM & deck work!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Sheets",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Slides",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "CRM Platforms",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Calendar Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Meeting Minutes",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Report Writing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Onboarding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Research",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-7021a2ef-a1ec-4a34-a8a5-f28bb41b852e",
+    "title": "Interior Designer",
+    "company": "The Makeover Guys",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Design end-to-end makeovers: space plans, mood boards, 2D/3D drawings, sourcing.\n• Inclusive, collaborative team that values innovation, ownership and growth.\n• Improve homeowners' and tenants' living experience; see projects styled & photographed!",
+    "extractedSkills": [
+      {
+        "name": "Interior Design",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Space Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-3dcf5881-4aee-4514-9353-206e2d0ced3f",
+    "title": "Trade Marketing Executive (MT)  ",
+    "company": "ZUS COFFEE",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Execute trade campaigns in Modern Trade: manage vendors, POSM, sampling and planogram.\n• Work at a consumer coffee brand in Modern Trade.\n• Gain hands-on exposure to launches, activations and cross-functional teams!",
+    "extractedSkills": [
+      {
+        "name": "Trade Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-23ed230b-7842-401b-a200-a14e5add2c49",
+    "title": "Trade Marketing Executive (GT) ",
+    "company": "ZUS COFFEE",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Coordinate Traditional Trade campaigns: POSM, roadshows, sampling, planogram checks and inventory.\n• Drive in-store coffee activation.\n• Gain end-to-end trade exposure: agency coordination, launches, budget tracking and ROI!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Trade Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-aeabf506-9116-4d3c-a02b-05628a313892",
+    "title": "珠宝门市销售专员（KL/PENANG/JB/SEREMBAN/MELAKA)",
+    "company": "SK Jewellery Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Assist customers choosing jewellery, sell products, handle payments, maintain stock and store, meet sales targets.\n• Join jewellery retailer across KL, Penang, JB, Seremban & Melaka.\n• Drive sales build client relationships and grow retail skills!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 8000
+  },
+  {
+    "id": "wobb-8e98d5cc-5a20-4455-93ab-dc5d83915e00",
+    "title": "Beauty Advisor",
+    "company": "SPG WELLNESS CODE SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Consult, deliver treatments, engage clients and keep stations tidy with warm energy.\n• Serve Slim Paris & Kskin (body sculpting, express facial) across KL & Puchong.\n• Basic + high commission + incentives; no individual target, more sales = more pay",
+    "extractedSkills": [
+      {
+        "name": "Beauty Advice",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Skin Care",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Massage",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chiropractics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Knowledge",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Standard Operating Procedure",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Skin Treatments",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Aesthetics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Oriented",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-bf352b33-8cf1-40fd-9214-923adb3b7b48",
+    "title": "Customer Service (Fashion E-Commerce - Returns & Operations)",
+    "company": "DOUBLEWOOT FASHION SDN. BHD.",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "mid",
+    "rawDescription": "• Handle returns, exchanges & refunds: check eligibility, inspect items, update records.  \n• Work in fashion e-commerce, supporting brand returns processes and inventory control.  \n• Own returns workflow, drive improvements and cut repeat issues!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c3f1658c-5cdd-4c8a-ad0b-1c741e2d17c3",
+    "title": "Internship Customer Service (Fashion E-Commerce - Returns & Operations)",
+    "company": "DOUBLEWOOT FASHION SDN. BHD.",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Process returns: verify eligibility, inspect items, update records and coordinate with warehouse.\n• Join a fashion e-commerce ops team managing returns and inventory.\n• Spot recurring issues, propose fixes and improve customer experience!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-94d62775-a7a0-4010-a956-d24032c16407",
+    "title": "PERFUME PROMOTER",
+    "company": "TK LIMITED ENTERPRISE",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Engage shoppers at events and roadshows: demo scents, answer questions, guide choices, and hit daily sales targets.\n• Fun, energetic events team; product training provided.\n• Earn performance bonus & allowance; gain sales skills!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Promotion",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Discipline",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1800,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-4c886aa6-3c94-44e9-8938-073bf58b36bc",
+    "title": "Project Engineer",
+    "company": "Tapway",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Plan and coordinate AI Vision & IoT deployments: schedules, vendors, on-site installs, tests and docs.\n• Help redefine how physical spaces operate using AI Vision and Big Data across edge, cloud and enterprise.\n• Hands-on edge-to-cloud Vision AI!",
+    "extractedSkills": [
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-2f43d93b-a1f8-4126-a58b-c100e2f081f5",
+    "title": "Internship AI Finance Analyst Intern (SME Advisory)",
+    "company": "Simplyfi Malaysia SDN BHD ",
+    "industry": "technology",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "• Review SME P&L, BS and CF with AI; extract metrics, flag anomalies, prep client models.\n• Help turn SME data into investor-ready data rooms; No Data, No Talk.\n• Master AI-assisted modelling on live SME clients and build investor-readiness skills!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Finance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Analysis",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Analytics",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Corporate Finance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Corporate Financial Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-d7b023e1-8970-48e6-bad8-ccf480ea15a8",
+    "title": "Frontend Software Developer",
+    "company": "Snatch Park Bizsolutions Sdn Bhd ",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Build features with React/Flutter/Vue; convert UI/UX designs into responsive, cross-browser code.\n• Work on products integrating AI/LLMs into web & mobile via AI tools/APIs.\n• Use AI models/APIs to analyze application or business data and generate insights and reports!",
+    "extractedSkills": [
+      {
+        "name": "UI/UX Writing",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HTML5",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "JavaScript (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "TypeScript",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "React.js (Javascript Library)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Vue.js (Javascript Library)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Flutter (Software)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Angular (Web Framework)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Git (Version Control System)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "RESTful API",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-d69d004f-c1ab-4ca9-8e2d-51d8caa7b39f",
+    "title": "MES (IT) Senior Specialist, Digital Manufacturing Systems",
+    "company": "Armstrong Electronics Sdn Bhd",
+    "industry": "technology",
+    "city": "johor",
+    "seniority": "senior",
+    "rawDescription": "• Lead MES projects and ERP-MES integration across sites; Mandarin; travel.\n• Drive Smart Factory rollouts with ops, engineering, QA and vendors.\n• Own backlog, designs and KPIs - shape factory digitization and impact!",
+    "extractedSkills": [
+      {
+        "name": "Manufacturing Execution System (MES)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Manufacturing Engineering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Integration",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "ERP Systems Knowledge",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-3946b6e6-5afe-410e-8ed1-ef3dc8feaac1",
+    "title": "Creative Project Manager",
+    "company": "Light Up 7",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Plan and run marketing projects: manage schedules, budgets, resources, risks and client updates.\n• Fast-paced digital agency delivering ROI-driven campaigns for well-known brands.\n• Lead high-profile, cutting-edge campaigns and deliver ROI!",
+    "extractedSkills": [
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Planning",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Schedules",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Strategic Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-24bc5028-d6b7-4aa1-b92a-fc8aff89daa1",
+    "title": "Part-Time/ Full-Time Physical Educator (TEBRAU) ",
+    "company": "The Little Gym",
+    "industry": "education",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "• Teach fun gymnastics & movement for kids 4 months to 12 years; prep and run classes.\n• Be part of a welcoming, safety-focused team running classes, parties and events.\n• Bring energy and creativity to inspire kids and lead unforgettable classes!",
+    "extractedSkills": [
+      {
+        "name": "Sports Coaching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Gymnastics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Child Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teaching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Play Therapy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Special Needs Children",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Working With Children",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Physical Education",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adapted Physical Education",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-f1fccb54-63dc-4ebb-9505-fe23f3bc1e71",
+    "title": "Head of Project & Technical Support",
+    "company": "Tapway",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "lead",
+    "rawDescription": "• Deliver projects on time, scope and budget: set scope, allocate resources, manage schedules, risks and stakeholders.\n• Fast-growing AI & Cloud company with a vibrant, dynamic culture.\n• Build your own team and lead presales, demos & product impact!",
+    "extractedSkills": [
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Technical Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "AWS Lambda",
+        "category": "cloud-devops",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 6500,
+    "salaryMax": 9500
+  },
+  {
+    "id": "wobb-d5afcf70-596a-4810-a5c8-f8cd860aecf2",
+    "title": "Part-Time/ Full-Time Physical Educator (Klang Valley) ",
+    "company": "The Little Gym",
+    "industry": "education",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Lead fun gymnastics & movement classes for kids 4 months to 12 years; prep, set-up, clean-up and front-desk support.\n• Join a welcoming, positive and safe gym that runs classes, parties and seasonal events.\n• Bring energy, creativity & enthusiasm!",
+    "extractedSkills": [
+      {
+        "name": "Sports Coaching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Gymnastics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Child Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teaching",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Play Therapy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Special Needs Children",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Working With Children",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Physical Education",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adapted Physical Education",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 3800
+  },
+  {
+    "id": "wobb-e16fe323-f0f3-46e7-8396-c19a02dfc320",
+    "title": "Legal Secretary",
+    "company": "Skrine",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare and manage legal documents, filings, correspondence, appointments and travel; support lawyers.\n• Join Skrine's legal team to keep operations and records running.\n• Get hands-on legal admin exposure and ownership of varied tasks!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Written English",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-44e1ed9d-ca20-4116-a89a-ab2b14de2643",
+    "title": "Sales Ambassador (Gurney Plaza Penang)",
+    "company": "Abeaute Sdn Bhd",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Advise walk-ins with listening and product know-how to deliver tailored 5* experiences.\n• Inviting shop: fresh products, beautiful displays & a solution-oriented team.\n• Grow via training and supportive feedback, make every visitor's day!",
+    "extractedSkills": [
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-149f45b1-1528-4b60-9d87-cf6e44f1482c",
+    "title": "Junior Creative Designer (Immediate Hiring)",
+    "company": "Paluan Sejati Sendirian Berhad",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Create graphics, branding, web and motion from a hybrid Damansara Utama base.\n• Join an events & marketing agency with 20+ years serving FMCG, GLCs and MNCs.\n• Own creative for top-brand campaigns across schools and social channels; start now!",
+    "extractedSkills": [
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Visual Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Branding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Brand Identity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Creative Suite",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Collaboration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-33406a44-94e8-4d0a-85df-e1ac8fe6f998",
+    "title": "Store Supervisor",
+    "company": "Abeaute Sdn Bhd",
+    "industry": "retail",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Lead the shop floor: set comms, observe consultations, give direct feedback and delegate to stay customer-facing.\n• Supportive, growth-minded team obsessed with 5* customer experience.\n• Coach daily, build skills and shape standout customer journeys!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-f45e5ef4-a80e-4456-a9f5-eb736e16ef6a",
+    "title": "Product Development (Skincare) - Senior Executive / Assistant Manager (WonderLab)",
+    "company": "Cuckoo International (MAL) Berhad",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Lead NPD: briefs, formulation, testing, compliance, scale-up, launches.\n• Coordinate OEMs, labs and cross-functional teams to launch safe skincare in Malaysia/ASEAN.\n• Own innovation, technical strategy and launches with clear commercial impact!",
+    "extractedSkills": [
+      {
+        "name": "Product Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Formulation Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Skincare Formulations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Regulatory Compliance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Testing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stability Testing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Quality Assurance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "OEM/ODM Relationship Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Ingredient Evaluation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5c4bd7de-6dac-4b8f-a075-cf3c5214f879",
+    "title": "Internship Business Administration Intern",
+    "company": "Trinity42 Digital Sdn. Bhd.",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Manage schedules, reports and admin; own projects and use AI to boost productivity.\n• Close-knit media team where your work helps campaigns land and operations run smoothly.\n• Build resume-grade marketing and AI workflow skills by owning projects and launch your career!",
+    "extractedSkills": [
+      {
+        "name": "Business Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Entry",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Report Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Meeting Coordination",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Content Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Market Research",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Coordination",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Office / Google Workspace",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Use of AI Tools",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-93f7c342-184c-46ef-86ab-05323052fc4d",
+    "title": "Sales Administrator",
+    "company": "ABSOLUTE ASIA FLOORING SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Manage customer inquiries; issue quotations, SO/DO/PO and e-invoices; ensure stock availability and accurate deliveries; support sales team and promotions.\n• Join a specialist flooring team.\n• Earn commission when targets are met!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft SQL Servers",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2200,
+    "salaryMax": 2800
+  },
+  {
+    "id": "wobb-5116831e-2cd9-4afa-85ca-fccd7b34241a",
+    "title": "Internship For Multimedia Design (Video Editing)",
+    "company": "One Search Pro Marketing Sdn Bhd",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Edit and produce short-form videos; handle post-production and multimedia assets.\n• Fun, dynamic working environment.\n• Hands-on training, real projects and Friday WFH to grow your skills and confidence!",
+    "extractedSkills": [
+      {
+        "name": "Video Production",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe After Effects",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-83ed4646-9faf-40a5-a1bb-d1177c11d785",
+    "title": "Account Executive (Finance)",
+    "company": "Seven Pillars Group Sdn Bhd",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Handle daily accounting: invoices, payments, AP/AR, reconciliations and ledger entries.\n• Engage with auditors, tax agents, banks, suppliers and customers on reporting and compliance.\n• Own monthly reports, cash-flow and month/year closing!",
+    "extractedSkills": [
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Reconciliation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-f916d301-7548-4253-9a78-88acdf82ba8a",
+    "title": "CONVEYANCING CLERK",
+    "company": "CHRIS LEE & PARTNERS",
+    "industry": "other",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "• Handle conveyancing files, organise documents and assist lawyers daily.\n• Join a drama-free team that values mutual support and collaboration.\n• Entry-level friendly: 1-3 yrs ideal; fresh grads welcome. Learn on the job and grow!",
+    "extractedSkills": [
+      {
+        "name": "Willingness To Learn",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Independent Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ea7e73ad-7879-493e-8d1d-a40a6e307813",
+    "title": "Mechanic",
+    "company": "Mechatronic Autohaus Sdn Bhd",
+    "industry": "other",
+    "city": "other",
+    "seniority": "junior",
+    "rawDescription": "• Perform daily servicing, brake/suspension repairs and basic engine diagnostics.\n• Work on Japanese, local and Continental cars in a safety-first, SOP-driven workshop.\n• Rapidly grow skills: learn new automotive tech and advance as a technician!",
+    "extractedSkills": [
+      {
+        "name": "Automotive Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Diagnostic Tools",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Brakes",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Suspension (Vehicle)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Troubleshooting (Problem Solving)",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mechatronics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-313104d7-1c25-4ee6-8242-85c27c7a12ea",
+    "title": "SALES EXECUTIVE",
+    "company": "Omni Street Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Hunt prospects and own the full sales cycle: outreach, pitch, negotiate, close.\n• Work at a growth agency that builds brands, generates leads and drives results.\n• Close deals, drive revenue, collaborate with strategy, creative & marketing teams!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "New Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Closing (Sales)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Outside Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-56f53743-b9c6-4e0b-ad50-ce10f7e78c17",
+    "title": "Internship Ecommerce Operation Assistant",
+    "company": "Yuzu Marketing Sdn Bhd",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run daily online-store ops: customer chats, orders/payments, listings, stock, pricing, photos & descriptions.\n• Join a liquor-focused team, learn the category and support marketing.\n• Gain hands-on e-commerce ops, marketing & analytics!",
+    "extractedSkills": [
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing Strategies",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business To Business",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 997
+  },
+  {
+    "id": "wobb-f6b3d34a-ca57-4668-8365-d6e2cb4250a9",
+    "title": "Account Executive",
+    "company": "WYNDHAM GRAND BANGSAR KUALA LUMPUR",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run AP/AR, GL, bank & revenue reconciliations, invoices, payments and month-end.\n• Work at a KL hotel; liaise with depts, suppliers/customers on revenue & accounting.\n• Advance hotel finance: budgeting, audits & visible revenue impact!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Revenue Recognition",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "General Ledger",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-c2211d7a-17eb-4e5e-abc7-f839a4f116ab",
+    "title": "SALES MANAGER",
+    "company": "Comm-IT Consultancy Services Sdn. Bhd.",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Run full sales cycle: build plans, close enterprise deals, grow accounts, own margins.  \n• Help Malaysian orgs adopt practical IT to boost efficiency.  \n• Lead enterprise deals, expand your network and fast-track to senior commercial roles!",
+    "extractedSkills": [
+      {
+        "name": "Verbal Communication Skills",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Negotiation Strategies",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Forecasting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Strategic Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Target Costing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Pipeline Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 9000,
+    "salaryMax": 9998
+  },
+  {
+    "id": "wobb-3e29ada2-ae05-4b38-bbd8-f26f72fa95f1",
+    "title": "Internship Strategic Communications",
+    "company": "Ratio Cause",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Draft press releases, create campaign content, monitor media and support events.\n• Tackle social issues at an agency using behavioural insights across policy, safety and environment.\n• Hands-on media, content & campaign work with strategy teams!",
+    "extractedSkills": [
+      {
+        "name": "Public Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Public Affairs",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Public Relations Campaigns",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Campaign Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Campaigns",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1600,
+    "salaryMax": 1600
+  },
+  {
+    "id": "wobb-0ffde65e-0607-4f7a-9200-ad8ccc789681",
+    "title": "Internship Maintenance Technician",
+    "company": "WYNDHAM GRAND BANGSAR KUALA LUMPUR",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Fix and inspect hotel systems; handle daily repair requests.\n• Work with the Engineering team on preventive maintenance and safety standards.\n• Gain hands-on electrical, plumbing, AC and mechanical experience!",
+    "extractedSkills": [
+      {
+        "name": "Electrical Wiring",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Preventive Maintenance",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Audio-Visual Technology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HVAC Repair And Maintenance",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Electrical/Electronic Troubleshooting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-51f73fd1-5ae4-44de-8e42-9c39137a412b",
+    "title": "Internship Creative Designer (Event & Exhibition)",
+    "company": "ICE AGE EVENT MANAGEMENT SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Turn ideas into exhibition graphics, 3D builds and on-site layouts for pop-ups to trade shows.\n• Produce events and exhibitions that connect brands with real audiences through crafted visuals.\n• Build live portfolio, grow 2D/3D skills. Permanent!",
+    "extractedSkills": [
+      {
+        "name": "AutoCAD",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Autodesk Maya",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Illustrator",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "3D Animation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Site Inspection",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Chinese Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5dee67e8-0e74-46ef-85dc-aadc384b8a8f",
+    "title": "Executive, Brand Marketing",
+    "company": "ZUS COFFEE",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Lead brand strategy, integrated campaigns and P&L to meet sales KPIs\n• FMCG business scaling from Malaysia into new international markets\n• Direct exposure to Head of Marketing, CEO and GM, shape regional expansion!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Trade Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Branding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Tools",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Market Analysis",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "P&L Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Pricing Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Campaign Planning",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2e2f2061-e9d4-4767-8895-5dd78c3a305d",
+    "title": "LiveStream Host",
+    "company": "ZUCCA COMMERCE SDN BHD",
+    "industry": "retail",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is about hosting live streams, interacting with viewers, and creating engaging content. You might like this job because it offers a dynamic and creative environment to connect with audiences and enhance production workflow.",
+    "extractedSkills": [
+      {
+        "name": "Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Operations",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Retail Sales",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Live Streaming",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Live Broadcast",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-69b6b28d-2b03-4374-a629-0a077aca633d",
+    "title": "Architectural Drafter",
+    "company": "ATA",
+    "industry": "other",
+    "city": "johor",
+    "seniority": "junior",
+    "rawDescription": "• Produce and refine architectural and construction drawings daily.\n• Join ATA to focus on architectural and construction drawing work.\n• Deepen practical drafting expertise with hands-on production of real project drawings!",
+    "extractedSkills": [
+      {
+        "name": "AutoCAD",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ba609ffa-f1e0-4da4-8e74-b78ce08d1c62",
+    "title": "Quantity Surveyor",
+    "company": "Saccotech Sdn Bhd ",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "mid",
+    "rawDescription": "• Estimate and control project costs: prepare tenders, budgets, valuations and update cost plans.\n• Lead tendering, contract management, risk mitigation and lifecycle costing.\n• Gain exposure to claims, disputes and end-to-end cost control!",
+    "extractedSkills": [
+      {
+        "name": "SolidWorks",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "AutoCAD",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "CAD",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Technical Drawing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Site Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Progress Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Construction Documentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-2d32d710-a237-4dfc-a3c4-bc054cc3f18d",
+    "title": "Maintenance Supervisor, Property Management",
+    "company": "EcoWorld",
+    "industry": "engineering",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Run daily maintenance: lead techs, triage repairs, inspect HVAC/electrical/plumbing, enforce safety.\n• 1-year contract with strong conversion to permanent.\n• Own budgets, inventory and vendors; drive measurable operational impact and career growth!",
+    "extractedSkills": [
+      {
+        "name": "Electrical Wiring",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Plumbing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mechanics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HVAC",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ce2527c0-287d-47fc-96bf-ec74b9158200",
+    "title": "Property Management Executive (Northen Region)",
+    "company": "EcoWorld",
+    "industry": "technology",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Run daily property ops: tenant support, maintenance follow-up, rent collection, records.\n• 1-year contract with strong potential to convert to permanent.\n• Build budgets, reporting and vendor skills with finance & contractor exposure!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Document Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Entry",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-7f0c8a52-daaf-4ef9-a3a7-a6bd7e6f3c2a",
+    "title": "Internship on Electrical / Electronics /  Mechanical Engineering",
+    "company": "Internaxis Sdn Bhd",
+    "industry": "engineering",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Assemble, test and maintain electrical/electronic/mechanical equipment; troubleshoot daily.\n• Structured training on real equipment and projects with technicians & engineers.\n• Build a portfolio and supervisor refs; gain troubleshooting experience and launch your tech career!",
+    "extractedSkills": [
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Troubleshooting (Problem Solving)",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-9f2f7a83-4739-49fe-9eff-40575b786f28",
+    "title": "Internship - Fashion Design",
+    "company": "KHATAM",
+    "industry": "retail",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Assist design team: sketches, moodboards, materials, trend research and sample checks.\n• Join a hands-on team building collections and driving product development.\n• Gain practical, full design experience across research, materials and sampling!",
+    "extractedSkills": [
+      {
+        "name": "Fashion Retail",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Fashion Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 900,
+    "salaryMax": 900
+  },
+  {
+    "id": "wobb-24b3114f-11bb-4bca-8091-18a7d862025f",
+    "title": "Junior Graphic Designer",
+    "company": "CloudExpo Sdn Bhd",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Turn briefs into social, print and on-site visuals; retouch and export final artwork.\n• Join an exhibition team that builds physical events and runs key accounts.\n• See your designs live at events and client sites, learn fast and make impact!",
+    "extractedSkills": [
+      {
+        "name": "Adobe Creative Cloud",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Canva (Software)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-27",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 3786
+  },
+  {
+    "id": "wobb-04d52379-ff83-4fbd-a302-8834e07ebb31",
+    "title": "Core Banking Test Lead",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead test management: set scope, author specs, run POCs, coordinate delivery.\n• Join a global firm (774k, 120+ countries) shaping digital core with cloud, data & AI.\n• Drive high-impact decisions across teams; shape core-banking transformation!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-da8e04a8-1cbc-4c2e-b0d2-d84d6abf40a3",
+    "title": "IT Operations Associate",
+    "company": "Accenture Malaysia",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead incident response, restore services, monitor systems, analyze trends, manage production changes.\n• Join a collaborative, problem-solving team focused on customer service.\n• Grow IT-ops expertise and impact in a supportive development team!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-4deeb5db-ab7f-406c-ada3-dfc1d65e2ebd",
+    "title": "Trust & Safety Associate",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run WFM daily: resolve routine issues with guidelines, follow instructions; coordinate with team/supervisor; rotational shifts.\n• Accenture Malaysia, Kuala Lumpur.\n• Own focused WFM scope; be an individual contributor whose decisions impact your work!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-8dde21e7-cf8c-4271-a9cd-8a43cb444925",
+    "title": "Trust & Safety Associate",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Review content to flag IP issues, verify accounts and payments, and tune fraud models.\n• Join a curious, impact-driven team safeguarding a safe, welcoming platform.\n• Build deep moderation, analytics and algorithm skills while shaping platform safety!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-d77fe069-c317-484b-b794-b9b24dbb5a5e",
+    "title": "Cloud Support Engineer - Mandarin Speaker",
+    "company": "Accenture Malaysia",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Take Mandarin hotline calls: triage public-cloud issues, use KB, log cases and escalate to L2; shifts incl nights/weekends.\n• Global tech leader: 120+ countries, 774k colleagues.\n• Fast hands-on cloud learning & real global impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-84800700-6769-4401-9ee5-7d9802fde73b",
+    "title": "Technician Supervisor",
+    "company": "Marriott International",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Maintain and calibrate equipment; run preventive maintenance and handle guest repair requests.  \n• Test fire pumps, inspect sprinklers and alarms, manage parts and log work digitally.  \n• Lead and develop technicians: hire, train, schedule and shape disaster response and safety!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-14000628-8cf7-44d4-9dcc-f67da9fb5840",
+    "title": "Technician",
+    "company": "Marriott International",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Handle guest repair requests: plumbing, lighting, minor room fixes; perform preventative maintenance and log work.\n• Deliver guest-focused service within safety standards.\n• Get safety training/certifications and build hands-on maintenance experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-255e45d7-59d3-4b1a-89cc-aa37053f6900",
+    "title": "Steward Supervisor",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead stewards; run dishwashing, pot-scrub and hand-wash stations; stock banquets.\n• Operate to company standards; welcome guests and support banquet and buffet service.\n• Hire, train, schedule and coach the team; hands-on supervisory growth!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-224d6b11-4116-4f32-b458-f413f0bb8c42",
+    "title": "Senior Business Consultant",
+    "company": "Swift Support Services Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead end-to-end analysis: run discovery workshops, define data/interfaces, assess impacts, mentor junior analysts.\n• Join the world leader in secure financial messaging, present in 200+ countries serving 12,000+ banks.\n• Make global impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-08-27",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-9e708086-c73f-4116-9a76-41f155242a4e",
+    "title": "Internship Administration & Operations Intern",
+    "company": "Bucket List Travel & Vacations Sdn.Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Handle daily admin: data entry, docs, schedules, event prep and supplier coordination.\n• Work with a Malaysia travel team focused on photography tours, unique destinations and workshops.\n• Build real ops experience across tours, events and teams!",
+    "extractedSkills": [
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Administrative Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Document Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Support Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-5ca3c0c9-420e-4ef1-b390-0166fffd1cb2",
+    "title": "Internship Video Editor & Content Production Intern",
+    "company": "Bucket List Travel & Vacations Sdn.Bhd.",
+    "industry": "manufacturing",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Edit travel videos for socials: cut, captions, music/SFX, motion, colour and multi-format export.\n• Malaysia travel brand crafting photography tours and workshops.\n• Edit real travel footage with photographers and tour leaders; build your portfolio!",
+    "extractedSkills": [
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Production",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Processing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Videography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Photoshop",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Photoshop Lightroom",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photo Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Writing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-cfe4d3b0-2810-4503-a3fa-bea3a5149963",
+    "title": "Catering Supervisor",
+    "company": "ALB INFINITI SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Run daily catering: lead staff, ensure food quality, hygiene, portions, stock.\n• Client-facing role; liaise with clients, management and teams to deliver service.\n• Own service standards and team performance, shape ops and report to management!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Creative Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-661417ce-a2d4-4c2a-b6b8-2f5553897bbb",
+    "title": "Mechanical Design Engineer - R&D",
+    "company": "Array Metal (M) Sdn Bhd",
+    "industry": "engineering",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Lead R&D: use SolidWorks to take concepts to certified production; build test rigs and docs.\n• Design industrial products for EPC customers worldwide.\n• Own product development to certification; drive innovation and global impact!",
+    "extractedSkills": [
+      {
+        "name": "Proactivity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Mechanical Engineering",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "SolidWorks (CAD)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-d4d2adcd-3a56-4c93-b6fa-e53f677fca4d",
+    "title": "Housekeeping Supervisor / Penyelia Pembersihan",
+    "company": "ALB INFINITI SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Supervise cleaning crew: schedule shifts, assign tasks, monitor attendance & performance.\n• Based in Bandar Sri Permaisuri, Cheras, uphold cleanliness and safety SOPs.\n• Lead inspections, manage equipment use, report faults and drive visible impact!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Office",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 2300
+  },
+  {
+    "id": "wobb-e1660fb7-d9d2-4345-b03d-06daf8bf8fa0",
+    "title": "Internship Audit Assistant",
+    "company": "WM & Co. ",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare working papers, reconcile accounts and maintain audit files; support seniors.  \n• Grounded firm serving local businesses with practical financial checks.  \n• Learn audit on real client files, build technical skills and expand your network!",
+    "extractedSkills": [
+      {
+        "name": "Audit",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Working Papers",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Reconciliation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Audit Documentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Attention to Detail",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-ed3d1ce3-4451-472e-8972-dd0871050bda",
+    "title": "Internship Account Assistant",
+    "company": "WM & Co. ",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Build bookkeeping workflows, maintain client ledgers and month‑end reports.\n• Boutique team serving Malaysian SMEs in bookkeeping, accounting and finance.\n• Fast‑track hands‑on accounting, client exposure and a clear path to senior roles!",
+    "extractedSkills": [
+      {
+        "name": "Bookkeeping",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Bank Reconciliation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "MYOB",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Xero",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "QuickBooks",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-0be8c3aa-7828-430e-9c4d-4b0a6578483e",
+    "title": "MIXUE Service Crew – Full Time",
+    "company": "DE DAUNTLESS YOGURT (M) SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Make MIXUE drinks & ice cream; take orders & cashier, restock, clean, follow SOPs.\n• Busy Mixue outlet at Southville City (8 min from Bandar Baru Bangi).\n• RM1,800/month + attendance allowance, OT & holiday pay; EPF, SOCSO, EIS. Full-time, 5.5 days!",
+    "extractedSkills": [
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1800,
+    "salaryMax": 2200
+  },
+  {
+    "id": "wobb-4b4352a7-611e-402e-8567-139435291159",
+    "title": "Senior Finance Executive",
+    "company": "Mercury Securities Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Handle full-set accounts: AP/AR, GL, bank reconciliations, payments and month-end close.\n• Join a lean, fast-paced Kuala Lumpur finance team focused on compliance and accuracy.\n• High-impact role: full-set exposure, audit work and ad hoc projects!",
+    "extractedSkills": [
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Generally Accepted Accounting Principles",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 6000
+  },
+  {
+    "id": "wobb-6728c608-2d4b-4620-9c12-8b6f63b19745",
+    "title": "Copywriter (3 months / 6 months Contract)",
+    "company": "Webby Group",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Write websites, social, blog and marketing copy on AI, software and tech; research and proofread.\n• Work with Marketing, Sales and Product teams on campaigns and launches.\n• 3-6 month contract with potential to become permanent!",
+    "extractedSkills": [
+      {
+        "name": "Content Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 4000,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-a5bbabdc-3a0c-42c0-8cc1-a39cd25c5e11",
+    "title": "Administrative Executive",
+    "company": "MULAH TECHNOLOGIES SDN. BHD.",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Issue invoices, receipts and claims; make payments and handle basic accounts, hardware and admin support.\n• Team-focused culture with annual team meetings, dinners and leisure activities.\n• Own office needs lead team events and make the workplace happier!",
+    "extractedSkills": [
+      {
+        "name": "Administrative Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Payroll Processing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 2800
+  },
+  {
+    "id": "wobb-37d87ff1-39e4-46f4-b5a1-31aaa1b4ec86",
+    "title": "Intern, Event Management",
+    "company": "Lumiworks Sdn Bhd",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Plan, coordinate and run corporate events: handle logistics, vendors and on-site issues.\n• Supportive, collaborative team with mentorship from event pros.\n• Own real events end-to-end, gain full lifecycle experience and industry connections!",
+    "extractedSkills": [
+      {
+        "name": "Event Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Operations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Scheduling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-62892a97-3e0b-407d-bba2-f752cf8e5736",
+    "title": "Internship Financial Planning Internship Program",
+    "company": "Finspiration Advisory",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Prepare financial & legacy plans, join client strategy sessions, support sales/marketing.\n• Join a growth-minded advisory that gives real client exposure and mentorship.\n• Build planning, sales & personal-brand skills, grow your network, make impact!",
+    "extractedSkills": [
+      {
+        "name": "Financial Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Services",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-a9a7fd10-cc49-47ab-9eb8-68e2b49d3b69",
+    "title": "Executive, Corporate Communications",
+    "company": "SEGI VALUE HOLDINGS SDN BHD",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Draft press releases, speeches and corporate comms; handle media relations and crisis support.\n• Support CSR, awards submissions, corporate events and industry/community engagement.\n• Hands-on exposure to media, stakeholders, crisis response; shape reputation!",
+    "extractedSkills": [
+      {
+        "name": "Public Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Media Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Journalism",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Corporate Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Crisis Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-e9299b83-0abb-4a40-a1eb-4df758a412c6",
+    "title": "Internship Quantity Surveyor",
+    "company": "TQS Konsult PLT ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Support QS team on pre- and post-contract work; control cost, quality and schedule.\n• Join an energetic, delivery-focused QS team.\n• Gain hands-on exposure to active projects with mentorship from seasoned QS pros!",
+    "extractedSkills": [
+      {
+        "name": "Bill Of Quantities",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1200
+  },
+  {
+    "id": "wobb-b6fc8c35-9ca5-4e14-a0ed-3fc3f562a255",
+    "title": "Internship Social Media & Content Creation Intern",
+    "company": "Lvin Creative Space Ventures",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run clients' socials: design, write and shoot/edit short-form video.\n• Join a digital storytelling agency focused on strategic marketing.\n• Own end-to-end content; hybrid Kuala Lumpur, 3-month min, hands-on client ownership!",
+    "extractedSkills": [
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Storyboarding",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Calendar Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "CapCut",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Photoshop",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Illustrator",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb",
+    "salaryMin": 500,
+    "salaryMax": 500
+  },
+  {
+    "id": "wobb-44d0b916-0186-433d-afa4-a7bddc894e14",
+    "title": "Junior Art Director",
+    "company": "ZUS COFFEE",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "• Translate regional briefs into local creative; art-direct production and mentor juniors.\n• Shape campaigns, stores, product and digital across Malaysia & Singapore.\n• Own visual identity across markets and level up as a design leader!",
+    "extractedSkills": [
+      {
+        "name": "Adobe Creative Suite",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Illustrator",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adobe Photoshop",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-26",
+    "source": "wobb"
   }
 ]
