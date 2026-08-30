@@ -225771,5 +225771,473 @@
     "source": "wobb",
     "salaryMin": 3500,
     "salaryMax": 5000
+  },
+  {
+    "id": "wobb-9159b617-805b-4bf1-bf76-d8132ab7b537",
+    "title": "HR & Administration Manager (Mandarin Speaking) ",
+    "company": "Agensi Pekerjaan MBG Malaysia Sdn. Bhd.",
+    "industry": "other",
+    "city": "johor",
+    "seniority": "lead",
+    "rawDescription": "• Lead HR & admin: recruitment, workforce planning, employee relations and daily HR ops.\n• Collaborate with China-based senior leaders to drive people strategy.\n• Own HR initiatives, shape policy and use Mandarin daily to influence Management!",
+    "extractedSkills": [
+      {
+        "name": "Human Resource Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Human Resource Planning",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Employee Relations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Employee Performance Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Employee Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Communications",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Labor Law",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Administrative Functions",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-30",
+    "source": "wobb",
+    "salaryMin": 9000,
+    "salaryMax": 12000
+  },
+  {
+    "id": "wobb-e73049bc-9ba7-45e0-83ae-f0cf7a00e43e",
+    "title": "SEO SEM Specialist",
+    "company": "Idea Being ",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "This job is for an SEO/SEM Specialist. They manage digital marketing activities, optimizing search engine rankings. You might like this job because you get to analyze data, track campaigns, and improve website performance.",
+    "extractedSkills": [
+      {
+        "name": "Google Analytics",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Ads",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Website Optimization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Information Technology",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Computer Science",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Search Engine Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Search Engine Optimization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-07-31",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-f4667b34-1048-4839-8514-51d6260e1292",
+    "title": "Marketing Specialist",
+    "company": "Embassy Alliance",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Manage Google Ads, craft landing pages, run social media and creative campaigns to drive enquiries and bookings.\n• Join a 20+ year travel and destination management group serving international clients.\n• Own digital growth and new product launches!",
+    "extractedSkills": [
+      {
+        "name": "Google Ads",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Landing Page Optimization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Campaign Planning",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Analytics",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "SEO",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Meta Ads Manager",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Conversion Rate Optimization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Email Marketing",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-30",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 7000
+  },
+  {
+    "id": "wobb-3e5f7796-3631-41bd-b745-6c2613b6f433",
+    "title": "Internship Digital Marketing Intern",
+    "company": "Edamamedia Sdn Bhd",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Run digital campaigns for diverse brands: research, create, execute and multitask fast.\n• Small, family-like agency with broad industry exposure.\n• Hands-on training, access to templates and real client campaigns!",
+    "extractedSkills": [
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Graphic Design",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-14",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-edab4920-2281-49c0-bee5-cdafe0fb53fd",
+    "title": "Digital Marketing Executive",
+    "company": "ARTIFICIAN SDN. BHD.",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Plan, execute and optimise multi-channel campaigns to boost traffic, leads and conversions.\n• Practical, close-knit team helping local businesses grow with performance marketing.\n• Fast track senior marketing roles by leading end-to-end campaigns!",
+    "extractedSkills": [
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "SEO",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Ads",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Facebook Ads",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Analytics",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Email Marketing",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Copywriting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Campaign Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-29",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-2ef974d6-0a4c-4a2b-9303-6b8d47d1eddb",
+    "title": "Internship Assistant Head Coach (Swim Instructor)",
+    "company": "Sailfish Swim Academy ",
+    "industry": "education",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Teach swim lessons, design plans, coach individuals & groups, ensure pool safety.\n• Work across Lake Point Club, Tropicana Golf & APIS Ara Damansara.\n• Competitive pay with raises/bonuses, statutory benefits, free gym & annual company trip!",
+    "extractedSkills": [
+      {
+        "name": "Teacher Education",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-29",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 3800
+  },
+  {
+    "id": "wobb-8375a4d7-e47e-4b3b-826c-b19e7f90d5b4",
+    "title": "Manager/ Assistant Manager - Sales and Marketing",
+    "company": "Sailfish Swim Academy ",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "• Execute sales: convert leads, manage CRM, and hit monthly/quarterly targets.\n• Join a customer-focused team running campaigns and onboarding.\n• Own social (FB, IG, TikTok, WhatsApp), pricing & promos, and drive measurable sales!",
+    "extractedSkills": [
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Advertising",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-29",
+    "source": "wobb",
+    "salaryMin": 3500,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-88d5a604-f5eb-4f98-983c-b04565801f8e",
+    "title": "Admin & Inventory Executive",
+    "company": "TOR VISION SDN BHD",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Keep orders, records and office systems accurate; own admin and stock.\n• Close knit team supporting local businesses and steady stock.\n• Own end to end stock tasks, gain hands on experience with stock systems, suppliers and Excel/ERP to step into ops!",
+    "extractedSkills": [
+      {
+        "name": "Inventory Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stock Control",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Office Administration",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Data Entry",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stocktaking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Purchase Order Processing",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Vendor Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "ERP Basics",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Reporting & Documentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-29",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 5000
   }
 ]
