@@ -226239,5 +226239,449 @@
     "source": "wobb",
     "salaryMin": 3000,
     "salaryMax": 5000
+  },
+  {
+    "id": "wobb-72b5c15f-ae0f-4076-bc61-fd304edb60df",
+    "title": "Videographer cum Editor",
+    "company": "Sproud Sdn. Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Shoot & edit short-form social videos: Reels, TikTok, product, events, KOLs; colour grade, sound, VFX.\n• Join a KL digital-marketing partner powering influencer-led creative campaigns for brands.\n• Own production; level up fast!",
+    "extractedSkills": [
+      {
+        "name": "Videography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Video Editing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Photography",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 2500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-6ed5bfa1-9e43-4b6e-8265-5f67898e8455",
+    "title": "Creative Designer",
+    "company": "Whitedge Marketing Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Create concepts and assets across digital, packaging, POSM and reels; present ideas, manage production.\n• Work on international & local beauty, personal care, baby and F&B brands across Malaysia.\n• Own creative direction for real launches!",
+    "extractedSkills": [
+      {
+        "name": "Creative Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 3200,
+    "salaryMax": 4500
+  },
+  {
+    "id": "wobb-fa63c1b4-18c2-4bac-ac5e-6e9acddd15f2",
+    "title": "Internship Marketing Intern",
+    "company": "Whitedge Marketing Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Craft social content, support & measure marketing campaigns, run market research, assist launches.\n• Grow brands sold via Watsons, Guardian and grocery & convenience retailers nationwide.\n• Join a young team where your ideas shape real campaigns!",
+    "extractedSkills": [
+      {
+        "name": "Creative Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Social Media",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Content Creation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Detail Oriented",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-61d02fda-634e-4955-8669-7d03b7ef2d08",
+    "title": "Service Crew",
+    "company": "ROTIGUYS FNB GROUP SDN BHD ",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Greet guests, take and prep orders to recipe, bill accurately, keep hygiene and follow opening/closing SOPs.\n• On-the-job training with clear promotion path and statutory benefits.\n• Fast track to supervisor! Hands-on growth, real impact.",
+    "extractedSkills": [
+      {
+        "name": "Food Service",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Billing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Record Keeping",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cleanliness & Hygiene",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "SOP Compliance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Shift Work",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 2400
+  },
+  {
+    "id": "wobb-b6c54688-6b89-4a6e-97aa-63e7a99969b9",
+    "title": "Internship Audit assitant",
+    "company": "S.K. Tee & Co",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare workpapers, gather evidence, run tests and draft financials; support seniors and liaise with clients.\n• Work in a client-focused audit & tax firm.\n• Hands-on audit/tax exposure, client contact and real impact with senior guidance!",
+    "extractedSkills": [
+      {
+        "name": "Double-Entry Bookkeeping Systems",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Compliance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Proactivity",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 900,
+    "salaryMax": 900
+  },
+  {
+    "id": "wobb-8262a9a8-2cb6-47be-a105-de1439c278a8",
+    "title": "Internship tax assitant",
+    "company": "S.K. Tee & Co",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare tax computations and returns; vouch supporting documents and liaise with clients, accountants and auditors.\n• Join a collaborative audit and tax team.\n• Build practical tax skills with direct client, auditor and tax‑law exposure!",
+    "extractedSkills": [
+      {
+        "name": "Tax Laws",
+        "category": "cloud-devops",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Corporate Tax",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Compliance",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Relationship Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 900,
+    "salaryMax": 900
+  },
+  {
+    "id": "wobb-5b235f98-554b-4cdc-9d1f-71231685fa17",
+    "title": "Barista",
+    "company": "Effective Bond Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Prepare and serve high-quality beverages; deliver friendly service and manage hygiene and stock.\n• Work in a café outlet committed to consistent, high-quality drinks and operational standards.\n• Level up coffee skills!",
+    "extractedSkills": [
+      {
+        "name": "Espresso-based brewing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Manual brewing methods",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Latte art",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Operate espresso machines",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food hygiene & safety",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inventory management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Attention to detail",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Multitasking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 2800
+  },
+  {
+    "id": "wobb-6ad85a83-5bd6-470a-899e-4d7fb91bda7a",
+    "title": "Service / Kitchen Crew",
+    "company": "Effective Bond Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run café ops: greet customers, serve and prep food/drinks, keep hygiene and service smooth.\n• Be part of a café focused on high food and service standards.\n• Build practical service, kitchen and inventory skills and make a visible impact!",
+    "extractedSkills": [
+      {
+        "name": "Food Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Food Safety & Hygiene",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Attention to Detail",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Adaptability",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Problem Solving",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Inventory & Stock Handling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-31",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 2600
   }
 ]
