@@ -242216,5 +242216,1094 @@
     ],
     "postedAt": "2026-09-04",
     "source": "wobb"
+  },
+  {
+    "id": "wobb-e405b828-889e-48f0-b1a9-120621734c2a",
+    "title": "Internship TAX",
+    "company": "SK BUSINESS ADVISORY SDN. BHD.",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Assist with tax computations, filings, compliance docs, research, client files and audit support.\n• Exposure to taxation, accounting & corporate compliance in Puchong (near LRT).\n• Get real filing & audit experience!",
+    "extractedSkills": [
+      {
+        "name": "Tax Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Income Tax",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1000
+  },
+  {
+    "id": "wobb-ea080f1b-ec07-4da5-8d8a-c087e9b5e33d",
+    "title": "Internship for account executive",
+    "company": "Humantech",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Execute full account support: manage daily account tasks and client-facing work.\n• Join Humantech, UBS-experienced candidates preferred.\n• Clear path to conversion: successful interns can earn full-time offers!",
+    "extractedSkills": [
+      {
+        "name": "Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Receivable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Accounts Payable",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Preparation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 1000,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-41d17923-9ee1-44f7-a914-d6ca05018fc7",
+    "title": "Sales Executive (JB Branch)",
+    "company": "Hiredly X",
+    "industry": "finance",
+    "city": "johor",
+    "seniority": "mid",
+    "rawDescription": "• Visit customers, promote products, hunt new markets, and advise on right machines to close deals.\n• Sell machines and services tailored to customers' applications.\n• Own customer relationships, grow revenue and territory, make measurable impact!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Outside Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "New Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Relationship Building",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Relationship Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Key Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Heavy Equipment",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "After Sales Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 4200
+  },
+  {
+    "id": "wobb-70138e23-d1f9-4929-b02d-55d2d741bd01",
+    "title": "Sales Executive (KK Branch)",
+    "company": "Hiredly X",
+    "industry": "finance",
+    "city": "other",
+    "seniority": "mid",
+    "rawDescription": "• Visit customers, promote products and services, find prospects and match machines to needs.\n• Consultative, relationship-driven sales of machines and services.\n• Drive revenue and expand market reach, make direct impact!",
+    "extractedSkills": [
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Prospecting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Outside Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "New Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Relationship Building",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Relationship Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Key Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Heavy Equipment",
+        "category": "design",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "After Sales Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 2300,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-48b774d3-b4a6-44ec-8aca-871e44418755",
+    "title": "Manager of Product Development",
+    "company": "Hiredly X",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead roadmap & delivery for SSM e-Info and CA; manage Product Execs, prioritize features, sign off releases.\n• Work on secure, regulator-compliant CA and e-services.\n• Own launches, compliance and cross-team delivery; drive mission-critical impact!",
+    "extractedSkills": [
+      {
+        "name": "New Product Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Product Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Testing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "System Deployment",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Governance Risk Management And Compliance",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 5500,
+    "salaryMax": 6500
+  },
+  {
+    "id": "wobb-e91690c2-0249-423a-a005-c95999235533",
+    "title": "Oracle Fusion HCM Support Consultant (Cantonese-speaking)",
+    "company": "Hiredly X",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "• Deliver L2/3 Fusion HCM support in Cantonese: triage, fix, configure, close incidents.\n• Join an AMS team serving enterprise clients and Oracle quarterly updates.\n• Own SRs, apply root-cause fixes and run Cantonese training for client impact!",
+    "extractedSkills": [
+      {
+        "name": "Oracle Fusion Middleware",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Oracle Human Capital Management (HCM)",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Human Capital Management (HCM)",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Customer Support",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Help Desk Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 7000,
+    "salaryMax": 8000
+  },
+  {
+    "id": "wobb-a06cd84a-cd6f-43b7-a31e-4bcb8ed3340f",
+    "title": "Oracle Fusion Finance Support",
+    "company": "Hiredly X",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "mid",
+    "rawDescription": "• Configure & support Fusion GL & Tax; troubleshoot, run closes, UAT & deploy.\n• Deliver Fusion solutions with finance, tax & tech; ensure multi-jurisdiction tax compliance.\n• Lead implementations, own end-to-end config & compliance, big impact!",
+    "extractedSkills": [
+      {
+        "name": "Oracle Fusion Cloud Financials",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "System Implementation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Generally Accepted Accounting Principles",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Financial Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Oracle Financial Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Tax Accounting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 7000,
+    "salaryMax": 8000
+  },
+  {
+    "id": "wobb-8835195d-7d86-43cb-855a-ce51a0d1350c",
+    "title": "Urgent recruitment of Etsy platform partner employees",
+    "company": "Xi'an Aowei Network Technology Co., Ltd.",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Apply for an Etsy shop and hand it to us to operate; occasionally check bills and contact Etsy.\n• We run full store operations and pay you $1 per sold order.\n• Earn $300-$500+ per month part-time with minimal time commitment!",
+    "extractedSkills": [
+      {
+        "name": "Computer Literacy",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 1500,
+    "salaryMax": 3000
+  },
+  {
+    "id": "wobb-2141b0fa-32ae-4f65-960a-77386e4889c9",
+    "title": "Corporate Sales Executive (Fresh Graduate Welcome To Apply Too)",
+    "company": "MAXCOM MM SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Cold-call and meet business customers from a fixed DB; sell Maxis mobile plans, devices & rebates to convert leads and hit targets.\n• Part of Maxis Business powering connectivity, cloud, cybersecurity & IoT.\n• High commissions reward top closers!",
+    "extractedSkills": [
+      {
+        "name": "Cold Calling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Setting Appointments",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Team Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Strategy",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Sales Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Lead Follow-Up",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Telecommunications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Telemarketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Call Center Experience",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 2800,
+    "salaryMax": 5000
+  },
+  {
+    "id": "wobb-087b7a2b-9966-44b4-8b94-6e1fc22fd54d",
+    "title": "Internship Kids Event Host",
+    "company": "GogoKids Technologies Sdn Bhd",
+    "industry": "education",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "This job is an Internship Kids Event Host at GogoKids, where you'll lead fun learning events for children and parents. You might like this job because you get to create joyful experiences and make a real impact on kids' education!",
+    "extractedSkills": [
+      {
+        "name": "Event Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teacher Education",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Event Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-20",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 1500
+  },
+  {
+    "id": "wobb-0f2913ff-bf72-4cc3-a898-9163f4c602f6",
+    "title": "ALLIANZ LIFE PLANNER EXECUTIVE, C.E.O PROGRAMME",
+    "company": "Allianz C-E-O Program",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "lead",
+    "rawDescription": "• Contact prospects, book meetings, run financial risk analyses and policy reviews, research leads, and craft client proposals.\n• Work inside the Allianz C-E-O Program team.\n• Grow client value, win new business and build lasting relationships!",
+    "extractedSkills": [
+      {
+        "name": "Interpersonal Communications",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Discipline",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Confidence",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-08-07",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 12000
+  },
+  {
+    "id": "wobb-a81a5cac-0c65-4293-a492-cd017d3493c8",
+    "title": "Internship for Digital Marketing",
+    "company": "Forest Interactive Sdn. Bhd.",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Assist planning, executing & optimizing paid ads; analyze results; make social copy & visuals.\n• Join an award-winning mobile tech firm in 16 offices across 38+ countries.\n• Get hands-on paid-media and analytics experience with global impact!",
+    "extractedSkills": [
+      {
+        "name": "Advertisement",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Digital Marketing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Analytical Skills",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-06",
+    "source": "wobb",
+    "salaryMin": 800,
+    "salaryMax": 800
+  },
+  {
+    "id": "wobb-e72de0d9-7c17-42fc-a15a-12d5ccc29436",
+    "title": "Senior Analyst, Accounting Operations",
+    "company": "CMA CGM Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Post month-end JEs, consolidate GL, analyse P&L/BS and resolve variances with controllers and auditors.\n• Join a global shipping leader operating 420+ ports across 5 continents, committed to Net Zero 2050.\n• Fast-track into consolidation exposure!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-435a6fa6-2957-49e5-b3c6-7e927920625e",
+    "title": "Senior Analyst, Treasury (Cash Management)",
+    "company": "CMA CGM Malaysia",
+    "industry": "finance",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage daily cash: monitor balances, reconcile, raise funds, execute transfers/FX.  \n• Global shipping: 420+ ports, 160 countries, Net Zero 2050.  \n• Influence cash strategy via HO Treasury and transformation projects; fast-track your treasury career!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-26df90f1-a4f3-44cb-9927-8d4d6a0ef212",
+    "title": "Team Lead, Credit Risk Management",
+    "company": "CMA CGM Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Execute credit assessments, set limits, approve applications/renewals and coach analysts.\n• Be part of a global shipping leader spanning 420+ ports and 160 countries.\n• Lead automation and system upgrades, shape risk controls and boost growth!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-456fc51b-2722-4af2-81c9-0c61be1942f1",
+    "title": "Senior Analyst, Tax (Pillar 2)",
+    "company": "CMA CGM Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Prepare and file Pillar 2 reports: calculate ETRs, collect entity data, liaise with consolidation and accounting.\n• Join a finance expertise center supporting a global shipping leader in 160 countries and 420+ ports.\n• Shape Pillar 2 reporting!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2beae5b7-c677-4021-a847-ae6651d8abab",
+    "title": "Claims Officer",
+    "company": "CMA CGM Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage Malaysia & Singapore claims: respond fast, escalate, arrange reseals/inspections, close cases.\n• Global leader: 420+ ports across five continents\n• Lead regional claims, partner with legal/authorities, drive process improvement!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-f87f52a9-4abf-41b6-aa15-a86cf0da005e",
+    "title": "Associate Specialist, Meeting Services Support (Korean Speaker)",
+    "company": "Merck Sharp & Dohme",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process meeting requests: update systems, manage attendee/vendor records, reconcile invoices.\n• Global TME&F supporting meetings across Americas, Europe & Asia.\n• Hybrid role; gain hands-on SAP, Concur & event-systems experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-2df818dc-f863-4a85-9b9e-082aa77cebcf",
+    "title": "Associate Specialist, Meeting Services Support (Vietnamese Speaker)",
+    "company": "Merck Sharp & Dohme",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process meeting requests and event admin: create/update records, vendor docs, reconciliations and payments to SLA.\n• Join a centralized, compliance-focused TME&F team supporting Americas, Europe and Asia.\n• Hybrid role; gain exposure to SAP and Concur!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-df9066a7-622d-4d48-b27f-142d526feb61",
+    "title": "Specialist, Meeting Services Support (Thai Speaker)",
+    "company": "Merck Sharp & Dohme",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Own meetings end-to-end: intake, event setup, PO/payment, reconciliation, closure; validate and resolve to meet SLAs.\n• Central TME&F hub serving Americas, Europe & Asia with compliant, standardized processes.\n• Hybrid; use Thai+English, boost processes and gain cross-func impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5ddf2fea-a772-4b8f-af5d-862c6955e82e",
+    "title": "Associate Specialist, Meeting Services Support",
+    "company": "Merck Sharp & Dohme",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run meeting admin: validate requests, update systems, reconcile payments.\n• Join global TME&F serving Americas, Europe & Asia to deliver compliant meeting ops.\n• Hybrid entry-level role; exposure to SAP/Ariba/Concur/Veeva, cross-functional impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-e2f472b6-3e82-4317-8959-1002c15066fb",
+    "title": "Associate Specialist, Meeting Services Support (Indonesian Speaker)",
+    "company": "Merck Sharp & Dohme",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process meeting requests, update events, manage vendor docs and payments.\n• Join a centralized global TME&F team supporting Americas, Europe and Asia.\n• Hybrid role with hands-on SAP, Veeva and Ariba exposure; fresh grads welcome!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-7374b102-55bf-4cef-9ac7-3912a9a18350",
+    "title": "Project Coordinator",
+    "company": "Air Products Shared Services Sdn. Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process proposals, POs, invoices; reserve materials, update docs, close projects.\n• Work at a global leader whose tech supports space, hospitals and world scale plants.\n• Own projects and gain cross-team exposure on high-impact global engineering!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-3b2a8924-a1fd-4045-bf1f-99db361df9e6",
+    "title": "Management Consultant - Demand & Supply Planning (DSP)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Configure, test and deploy cloud demand & supply planning solutions; support post-go-live.\n• Work across global, multicultural teams to drive process strategy, governance and KPIs.\n• Hands-on o9, Kinaxis, SAP IBP, AI/ML; lead transformations.",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-4df7a825-20b8-44ac-becf-8aa2aab28b7f",
+    "title": "Order-To-Cash Analyst (Japanese Speaking)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run daily OTC: own SLAs, clear escalations, report performance.\n• Client-facing Operation Excellence team driving continuous improvement.\n• Build and coach the team, own change requests and make visible client impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-c53c0a30-72a3-4076-8577-4d9a1f54cc8d",
+    "title": "Management Consulting Manager - ERP Platforms (SAP FICO)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead SAP S/4HANA Finance projects: blueprint, configure GL/AR/AP/AA/CO/Tax/FSCM/PS, test, migrate data and run go live.\n• Based in Kuala Lumpur CoE, collaborate with top-tier local and international clients and global teams.\n• Make global impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-20f20a7c-84bb-47ea-8b31-5cc3503acab4",
+    "title": "Procure to Pay Ops Analyst (Korean speaking)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process invoices: index, OCR/SAP capture, three-way match, resolve PO/GRN, post payments.\n• Work at Accenture Malaysia in procure-to-pay AP operations and stakeholder support.\n• Train new joiners, lead CI, gain SAP&ReadSoft OCR expertise!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-19c3d4c7-b4c0-41ff-a178-fb13842050a2",
+    "title": "Procure To Pay Analyst (Japanese Speaking)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Process supplier invoices: index, OCR/SAP entry, three-way match, resolve PO/GRN gaps, post for payment.\n• Work in a team driving operational excellence and continuous improvement.\n• Own P2P ops, train new joiners and boost team performance!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-6ab54932-f267-4e4d-8081-71d6863cfea2",
+    "title": "Supervisor-Training",
+    "company": "Marriott International",
+    "industry": "education",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Create and deliver interactive training; run classes, assess needs, and enforce safety.  \n• Train frontline staff in a guest-focused hospitality setting; partner with managers.  \n• Lead L&D strategy, coach supervisors, shape guest service; make impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-32f40a24-f2fc-4d41-aba3-d80d39f16ffe",
+    "title": "Steward",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage dishroom, cleaning, banquet plating/food runs; supervise non-cooking staff.\n• Work in a guest-focused kitchen enforcing Safety Standards and service excellence.\n• Lead hiring, training, inventories & budgets; coordinate banquets engage execs!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-077f39d5-be5c-4bc8-945f-0925ccc63291",
+    "title": "Hotel Cleanliness Expert",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Clean rooms, public spaces, stock carts, handle guest requests, move items ≤50 lb, hands-on shifts.\n• Join a team crafting memorable guest experiences; quality and safety matter.\n• Make visible impact each shift, empowered to act and shape stays!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-31f6b28f-f852-4d56-bf33-0a3b3eca14ad",
+    "title": "Guest Experience Expert",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Guide guests each shift: handle requests, ops, reports & local tips.\n• Join a team focused on creating memorable unique guest experiences and empowered to act.\n• No experience required; start with HS/GED, learn on the job and make direct guest impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-a52dd204-dcab-45bf-95be-b9bcf0da9932",
+    "title": "Front Office Manager",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run daily front-office ops: lead desk, bell, switchboard & staff to ensure smooth arrivals/departures.\n• Join a culture that prioritizes guest and employee satisfaction.\n• Hire, coach and solve ops issues to shape guest experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-83c10092-c42c-4fa8-b0f9-2c994e678f25",
+    "title": "Finance Intern",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Apply classroom learning in hands-on hotel operations and projects.\n• Join the world's largest hotel company, more brands, hotels, growth.\n• Kickstart your career with immersive industry exposure and post-grad paths!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-802a4700-15a3-4659-badc-2d9f9d20a9ae",
+    "title": "F&B Service Supervisor - Marriott Executive Apartments Kuala Lumpur",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead F&B service: coach staff, open/close, manage dining flow, stock, appearance and safety.\n• Enforce company standards, Guarantee of Fair Treatment and safety rules.\n• Grow as a supervisor: hire, train, schedule and drive service improvements!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-80132a3d-587b-412a-8a8a-8bcc90e3e8c9",
+    "title": "F&B Sales Executive",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Coordinate banquets: meet hosts, read BEOs, run setups and timelines.\n• Join Marriott International, deliver guest-focused service with a collaborative team.\n• Own event execution and directly impact guest experience!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-20074ffe-a8a0-42ce-905d-ecb04a8e761d",
+    "title": "F&B Insider",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead and execute event setups: direct crews, set rooms, inspect standards, resolve issues.\n• Champion high-quality guest service and seamless cross-team delivery.\n• Own shifts, train staff, manage inventory and drive guest satisfaction!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-680fb4c7-2060-48d8-b74d-9e63a8196663",
+    "title": "F&B Graphic Designer",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Create F&B marketing: ads, signage and collateral; handle layouts, retouching and print prep.\n• Join a hotel brand focused on guest service and revenue.\n• Own end-to-end F&B creative, collaborate with marketing and ops; impact hotel revenue!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-d08cb47d-fe8a-41f8-b241-f92b23bddeec",
+    "title": "F&B Attendant",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Set up events, coordinate with kitchen, serve guests, maintain service areas.\n• Work to Marriott International standards; support a team and uphold quality.\n• Create memorable guest moments; expand hands-on event skills!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-e42ccd8c-62ad-4ce6-b8de-4dc446751fa5",
+    "title": "Lead System Analyst/ITBA",
+    "company": "Luxoft Malaysia Sdn. Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Analyse requirements, write specs; own ETL, data integration and production fixes.\n• Join a new Kuala Lumpur tech centre powering a major Asian bank's expansion.\n• Lead data initiatives that enable business growth and technology transformation!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-f5893ca7-b309-43a2-8cb3-1f77931d2cac",
+    "title": "Associate, Accounting & Tax [supporting Singapore]",
+    "company": "Tmf Regional Delivery Centre Sdn. Bhd.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Deliver client accounting and tax work, ensuring timelines, quality and compliance.\n• Join a team with structured training and on-the-job coaching.\n• Gain exposure liaising with auditors and tax agents while supporting client services!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-06",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-9e60df98-b1d3-4491-a164-10d60c158558",
+    "title": "Clinical Assistant/Medical Assistant",
+    "company": "Avenyx Consulting ",
+    "industry": "healthcare",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Run front desk: schedule patients, update records, prep rooms, assist clinicians.\n• Work in a patient-focused clinic delivering compassionate, confidential care.\n• Get broad clinical + admin exposure, influence operations and grow your skills!",
+    "extractedSkills": [
+      {
+        "name": "Clinical Documentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Clinical Practices",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-05",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 1800
+  },
+  {
+    "id": "wobb-c8fb55dd-d787-4515-b369-39362c3af241",
+    "title": "SUPERVISOR AND OUTLET SERVICE CREW - TRX & SETIA CITY MALL",
+    "company": "DOUBLE GREEN AEROCULTURE SDN BHD",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Run outlet: lead crew, make & serve strawberry drinks & treats; manage stock, cash and guests.\n• Join Malaysia's first strawberry F&B, Japanese-inspired and playful.\n• Grow fast with training, EPF/SOCSO/EIS, medical, OT & sales incentives!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Greeting Customers",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Point Of Sale",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Friendliness",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Punctuality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Willingness To Learn",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Leadership",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-05",
+    "source": "wobb",
+    "salaryMin": 1900,
+    "salaryMax": 2500
+  },
+  {
+    "id": "wobb-1972fca9-277d-4f5a-8197-1a98f1a9d0b1",
+    "title": "Administrative Coordinator",
+    "company": "Brainspark Sdn Bhd",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Handle enquiries, enrolments, schedules, teacher liaison and records\n• Growing education centre offering academic programmes and international exam prep\n• Fast hands-on growth: manage student ops work with parents & teachers, expand responsibilities!",
+    "extractedSkills": [
+      {
+        "name": "Presentations",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Knowledge",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Starter",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self-Confidence",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "English Language",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Confidentiality",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Self Organization",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-05",
+    "source": "wobb",
+    "salaryMin": 1700,
+    "salaryMax": 1900
   }
 ]
