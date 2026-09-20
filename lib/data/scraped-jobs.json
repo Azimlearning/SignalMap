@@ -286961,5 +286961,471 @@
     "source": "wobb",
     "salaryMin": 5000,
     "salaryMax": 8000
+  },
+  {
+    "id": "wobb-3edb6f23-a663-4ccb-a0d6-4d971bd2a80d",
+    "title": "Accountant",
+    "company": "JOYX (MALAYSIA) SDN. BHD.",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "senior",
+    "rawDescription": "• Manage accounting, month-end close and reporting for Malaysia, US parent and BVI  \n• Join group finance; liaise with auditors, tax agents and company secretaries  \n• Support the US parent's listing and audit prep!",
+    "extractedSkills": [
+      {
+        "name": "Auditing",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Balance Sheet",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-20",
+    "source": "wobb",
+    "salaryMin": 5000,
+    "salaryMax": 6500
+  },
+  {
+    "id": "wobb-00ec8966-5116-4c84-bf9a-917903a364ee",
+    "title": "Business Development Executive / Junior Sales Executive",
+    "company": "Premier Diagnostics Sdn Bhd",
+    "industry": "other",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Sell medical devices daily: demo, train, troubleshoot, run CMEs, hit targets.\n• Join a clinical diagnostics team providing reliable lab services to clinics and hospitals.\n• Accelerate sales and technical skills, own territories, attend conferences!",
+    "extractedSkills": [
+      {
+        "name": "Business Development",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "B2B Sales",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Lead Generation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Client Relationship Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Negotiation",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "CRM",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Presentation",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Reporting",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-20",
+    "source": "wobb",
+    "salaryMin": 3000,
+    "salaryMax": 4000
+  },
+  {
+    "id": "wobb-041a021a-f2c8-4459-a5e4-0c4f17768a25",
+    "title": "Internship (IT Support/Helpdesk) (Nov Intake)",
+    "company": "Turn Cloud Technology Service (M) Sdn Bhd",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Troubleshoot POS, handle helpdesk: log/close tickets, assist setups, run UAT, train.\n• Join a product support team for POS products and pre-release support.\n• Gain hands-on exposure to product releases, client setups and cross-team impact!",
+    "extractedSkills": [
+      {
+        "name": "Willingness To Learn",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Teamwork",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Independent Thinking",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-4bbd2713-ba54-4ecc-980e-8f451d31f2b4",
+    "title": "Junior Application Consultant - IT",
+    "company": "Turn Cloud Technology Service (M) Sdn Bhd",
+    "industry": "technology",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Assist PM in pre-sales, development and implementation: gather requirements, run UAT, deploy and support.\n• Join a cloud team bridging sales, consulting and customers.\n• Gain end-to-end client-facing delivery experience!",
+    "extractedSkills": [
+      {
+        "name": "Critical Thinking",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Willingness To Learn",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-6109584f-0c7a-4598-939c-dba54cbbc262",
+    "title": "System Analyst (Credit Origination)",
+    "company": "Accenture Malaysia",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Translate business requirements into system solutions: FSDs, interfaces, SIT/UAT, JIRA triage.\n• Work for a global tech leader with 774,000 people in 120+ countries.\n• Get high-impact, cross-functional exposure with devs, vendors and business users!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-5649e480-e743-4a6a-8f33-48ed40de2966",
+    "title": "Commis",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Prep and cook to recipes: portion, chop, mix, use ovens/grills/fryers, plate test temps.\n• Thrive in a safety-focused, professional team that values quality and teamwork.\n• Hone hands-on hot and cold station skills with real kitchen responsibility!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-26c0d311-8660-45d4-a903-927be5c5ebb4",
+    "title": "Commis",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Prep, portion, chop, cook and plate dishes; run ovens and fryers.\n• Follow strict quality, safety and presentation standards; report issues.\n• Build core culinary skills, join a team, and complete safety training!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-33cf257f-4ff7-4a3d-89d8-ca2c07a0a202",
+    "title": "Bar Supervisor",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Lead bar shifts: coach staff, handle cash, inventory and guest service.\n• Join Marriott International, deliver polished hotel hospitality and standards.\n• Build supervisory experience through hiring, training, scheduling and guest impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-a17f8157-03ec-4ba7-80ca-c3ce0d723ec3",
+    "title": "2nd Cutter (Chinese Kitchen)",
+    "company": "Marriott International",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Prep and cook hot & cold Chinese dishes; regulate ovens, thaw/portion items, garnish and log quality.\n• Join Marriott’s Food & Beverage team focused on quality, safety and guest service.\n• Gain leadership exposure: help hire, train and coach staff!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-f492fb6f-5ab8-4627-aca4-e96267e94bd5",
+    "title": "Site Reliability Engineer (Managed Patching & Platform Automation)",
+    "company": "Swift Support Services Malaysia",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Automate and operate Managed Patching: Ansible/Python workflows, monitoring, incidents and runbooks.\n• Global leader in secure financial messaging: 200+ countries, 12k+ banks.\n• Drive platform automation to cut toil and deliver global impact!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-9572ce04-34d2-4d70-8597-41b139f1757b",
+    "title": "Senior Database Engineer (Renewable Fixed Term Contract)",
+    "company": "Johnson Matthey Services Sdn. Bhd.",
+    "industry": "engineering",
+    "city": "kuala-lumpur",
+    "seniority": "mid",
+    "rawDescription": "• Manage MS SQL on-prem & Azure: HA/DR, migrations, perf tuning, automation, Power BI.\n• Join a 200+ year leader in platinum-group metals tackling emissions and building a circular future.\n• Make measurable environmental impact while accelerating your senior database career!",
+    "extractedSkills": [],
+    "postedAt": "2026-09-20",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-98b8365b-7b41-4a35-aac4-82778a75efcc",
+    "title": "Internship Deputy Director/Managing Director/Co-Founder/Human Resources",
+    "company": "chyehin",
+    "industry": "other",
+    "city": "penang",
+    "seniority": "junior",
+    "rawDescription": "• Lead company formation in Penang: form partnerships and raise capital.\n• Ground-up company in Penang; community-driven. Foreigners welcome as sponsors/co-founders.\n• Take founder-level leadership: raise capital, shape strategy and make real impact!",
+    "extractedSkills": [
+      {
+        "name": "Mandarin Chinese",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-19",
+    "source": "wobb",
+    "salaryMin": 12000,
+    "salaryMax": 15000
+  },
+  {
+    "id": "wobb-a6f773cc-b4c9-42ea-895e-a8cd47228015",
+    "title": "Website Support & Maintenance Executive",
+    "company": "Orangesoft",
+    "industry": "technology",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Fix and update client sites: content edits, safe CMS/plugin updates, backups, diagnose/fix or escalate, plus DNS/SSL/CDN.\n• Maintain regional brand sites across Malaysia & Singapore on Nuxt.js, Strapi, Drupal and WordPress.\n• Trusted owner, hybrid Tue-Fri, WFH Mon, flexible 7-10AM.",
+    "extractedSkills": [
+      {
+        "name": "Technical Support",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "HyperText Markup Language (HTML)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cascading Style Sheets (CSS)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "JavaScript (Programming Language)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Domain Name System (DNS) Servers",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "WordPress",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Drupal",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Strapi",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Nuxt.js (Javascript Library)",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-19",
+    "source": "wobb"
+  },
+  {
+    "id": "wobb-7508ee22-4408-4f94-ae6b-7dee3a63a0c8",
+    "title": "Spa Receptionist",
+    "company": "Health world spa and massage ",
+    "industry": "other",
+    "city": "kuala-lumpur",
+    "seniority": "junior",
+    "rawDescription": "• Greet guests, manage bookings and keep front of house calm and organised.\n• Join a neighbourhood spa focused on approachable, friendly wellness.\n• Make guests feel better daily in a calm community space, and be the steady heart of the team!",
+    "extractedSkills": [
+      {
+        "name": "Customer Service",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Cash Handling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Email Management",
+        "category": "data-analytics",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Politeness",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Appointment Scheduling",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Point of Sale (POS)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-19",
+    "source": "wobb",
+    "salaryMin": 2000,
+    "salaryMax": 2300
+  },
+  {
+    "id": "wobb-a28721a5-26c9-4e90-ab67-a210d8fc130d",
+    "title": "Website Project Executive",
+    "company": "Orangesoft",
+    "industry": "finance",
+    "city": "selangor",
+    "seniority": "junior",
+    "rawDescription": "• Run website projects: schedules, task boards, client actions, QA and launch.\n• Studio with 10+ years building websites for brands across Malaysia & Singapore.\n• Own projects, be clients' daily contact; hybrid: Mon WFH, Tue-Fri Puchong office!",
+    "extractedSkills": [
+      {
+        "name": "Project Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Project Coordination",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Effective Communication",
+        "category": "soft-skill",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Account Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Stakeholder Management",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Google Analytics",
+        "category": "programming-language",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Product Quality (QA/QC)",
+        "category": "domain-knowledge",
+        "confidence": 0.95,
+        "frequency": 1
+      },
+      {
+        "name": "Time Management",
+        "category": "management",
+        "confidence": 0.95,
+        "frequency": 1
+      }
+    ],
+    "postedAt": "2026-09-19",
+    "source": "wobb"
   }
 ]
