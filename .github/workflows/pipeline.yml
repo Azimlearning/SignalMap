@@ -1,9 +1,10 @@
 name: Refresh Job Data Pipeline
 
 on:
-  schedule:
-    # Daily at 02:00 UTC = 10:00 MYT
-    - cron: '0 2 * * *'
+  # Daily schedule disabled: project is no longer in use.
+  # To re-enable, restore:
+  #   schedule:
+  #     - cron: '0 2 * * *'   # 02:00 UTC = 10:00 MYT
   workflow_dispatch:
     inputs:
       limit:
