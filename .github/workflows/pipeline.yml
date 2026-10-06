@@ -1,9 +1,7 @@
 name: Refresh Job Data Pipeline
 
 on:
-  schedule:
-    # Daily at 02:00 UTC = 10:00 MYT
-    - cron: '0 2 * * *'
+  # Scheduled runs disabled: project no longer maintained. Manual runs only.
   workflow_dispatch:
     inputs:
       limit:
